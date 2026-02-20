@@ -1,0 +1,2056 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   sodipodi:docname="Fig_PolarizationExplained.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   id="svg5"
+   version="1.1"
+   viewBox="0 0 391.12238 198.17838"
+   height="198.17838mm"
+   width="391.12238mm"
+   inkscape:export-filename="Fig_PolarizationExplained.png"
+   inkscape:export-xdpi="600"
+   inkscape:export-ydpi="600"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="false"
+     inkscape:document-units="mm"
+     showgrid="true"
+     showborder="false"
+     inkscape:snap-center="true"
+     inkscape:snap-grids="true"
+     showguides="false"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="922.06724"
+     inkscape:cy="352.13918"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-others="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-nodes="true"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:grid
+       type="axonomgrid"
+       id="grid60103"
+       enabled="false"
+       originx="230.82609"
+       originy="-50.491425"
+       spacingy="1"
+       gridanglex="30"
+       gridanglez="30"
+       units="mm"
+       visible="true" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid86888"
+       spacingx="2.54"
+       spacingy="2.54"
+       units="in"
+       empspacing="10"
+       originx="230.82609"
+       originy="-50.491425"
+       visible="true" />
+    <inkscape:page
+       x="-2.3270008e-05"
+       y="1.5605469e-06"
+       width="391.12241"
+       height="210.91388"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="TriangleInL"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.8)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path64165" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutL"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path64174" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Base"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(230.82609,-50.491423)">
+    <rect
+       style="fill:none;fill-opacity:0.664;stroke:#afafaf;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.5, 3;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect846-9"
+       width="76.166183"
+       height="50.701202"
+       x="-152.53505"
+       y="50.866425"
+       rx="0"
+       ry="0"
+       inkscape:export-filename="..\9. Qualificação\Imagens\Fig_PolarizationExplained.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <rect
+       style="fill:none;fill-opacity:0.664;stroke:#afafaf;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.5, 3;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect928-3"
+       width="76.166183"
+       height="50.701202"
+       x="-76.368858"
+       y="50.866425"
+       rx="0"
+       ry="0"
+       inkscape:export-filename="E:\Users\rodan\Documents\1. Trabalho - IPT\OneDrive - IPT\Pessoal\Mestrado\Pesquisa\Fig2_PolarizationExplained.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <rect
+       style="fill:none;fill-opacity:0.664;stroke:#afafaf;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.5, 3;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect930-5"
+       width="76.166183"
+       height="50.701202"
+       x="-0.20266008"
+       y="50.866425"
+       rx="0"
+       ry="0"
+       inkscape:export-filename="E:\Users\rodan\Documents\1. Trabalho - IPT\OneDrive - IPT\Pessoal\Mestrado\Pesquisa\Fig2_PolarizationExplained.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <rect
+       style="fill:none;fill-opacity:0.664;stroke:#afafaf;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.5, 3;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect11226"
+       width="76.166183"
+       height="50.701202"
+       x="-228.70126"
+       y="50.866425"
+       rx="0"
+       ry="0"
+       inkscape:export-filename="E:\Users\rodan\Documents\1. Trabalho - IPT\OneDrive - IPT\Pessoal\Mestrado\Pesquisa\Fig2_PolarizationExplained.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <rect
+       style="fill:none;fill-opacity:0.664;stroke:#afafaf;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.5, 3;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect11228"
+       width="76.166183"
+       height="50.701202"
+       x="-152.53505"
+       y="101.56763"
+       rx="0"
+       ry="0"
+       inkscape:export-filename="E:\Users\rodan\Documents\1. Trabalho - IPT\OneDrive - IPT\Pessoal\Mestrado\Pesquisa\Fig2_PolarizationExplained.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <rect
+       style="fill:none;fill-opacity:0.664;stroke:#afafaf;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.5, 3;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect11230"
+       width="76.166183"
+       height="50.701202"
+       x="-76.368835"
+       y="101.56763"
+       rx="0"
+       ry="0"
+       inkscape:export-filename="E:\Users\rodan\Documents\1. Trabalho - IPT\OneDrive - IPT\Pessoal\Mestrado\Pesquisa\Fig2_PolarizationExplained.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <rect
+       style="fill:none;fill-opacity:0.664;stroke:#afafaf;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.5, 3;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect11232"
+       width="76.166183"
+       height="50.701202"
+       x="-0.20264864"
+       y="101.56763"
+       rx="0"
+       ry="0"
+       inkscape:export-filename="E:\Users\rodan\Documents\1. Trabalho - IPT\OneDrive - IPT\Pessoal\Mestrado\Pesquisa\Fig2_PolarizationExplained.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <rect
+       style="fill:none;fill-opacity:0.664;stroke:#afafaf;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.5, 3;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect11234"
+       width="76.166183"
+       height="50.701202"
+       x="-228.70126"
+       y="101.56763"
+       rx="0"
+       ry="0"
+       inkscape:export-filename="E:\Users\rodan\Documents\1. Trabalho - IPT\OneDrive - IPT\Pessoal\Mestrado\Pesquisa\Fig2_PolarizationExplained.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <rect
+       style="fill:none;fill-opacity:0.664;stroke:#afafaf;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.5, 3;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect69578"
+       width="76.166183"
+       height="50.701202"
+       x="75.963524"
+       y="50.866425"
+       rx="0"
+       ry="0"
+       inkscape:export-filename="E:\Users\rodan\Documents\1. Trabalho - IPT\OneDrive - IPT\Pessoal\Mestrado\Pesquisa\Fig2_PolarizationExplained.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <rect
+       style="fill:none;fill-opacity:0.664;stroke:#afafaf;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.5, 3;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect69580"
+       width="76.166183"
+       height="50.701202"
+       x="75.963524"
+       y="101.56765"
+       rx="0"
+       ry="0"
+       inkscape:export-filename="E:\Users\rodan\Documents\1. Trabalho - IPT\OneDrive - IPT\Pessoal\Mestrado\Pesquisa\Fig2_PolarizationExplained.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="22.635874"
+       y="58.782909"
+       id="text13436"
+       inkscape:export-filename="E:\Users\rodan\Documents\1. Trabalho - IPT\OneDrive - IPT\Pessoal\Mestrado\Pesquisa\Fig2_PolarizationExplained.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan13434"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="22.635874"
+         y="58.782909">DIPOLES</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="104.24876"
+       y="58.782909"
+       id="text21292"
+       inkscape:export-filename="E:\Users\rodan\Documents\1. Trabalho - IPT\OneDrive - IPT\Pessoal\Mestrado\Pesquisa\Fig2_PolarizationExplained.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan21290"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="104.24876"
+         y="58.782909">ATOM</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-211.84169"
+       y="58.782909"
+       id="text22616"
+       inkscape:export-filename="E:\Users\rodan\Documents\1. Trabalho - IPT\OneDrive - IPT\Pessoal\Mestrado\Pesquisa\Fig2_PolarizationExplained.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan22614"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="-211.84169"
+         y="58.782909">CRYSTALINE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-133.83562"
+       y="58.782909"
+       id="text25788"
+       inkscape:export-filename="E:\Users\rodan\Documents\1. Trabalho - IPT\OneDrive - IPT\Pessoal\Mestrado\Pesquisa\Fig2_PolarizationExplained.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan25786"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="-133.83562"
+         y="58.782909">INTERFACE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-57.662315"
+       y="58.782909"
+       id="text71044"
+       inkscape:export-filename="E:\Users\rodan\Documents\1. Trabalho - IPT\OneDrive - IPT\Pessoal\Mestrado\Pesquisa\Fig2_PolarizationExplained.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan71042"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="-57.662315"
+         y="58.782909">MOLECULE</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:0.664;stroke:#afafaf;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.5, 3;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect71148"
+       width="76.178505"
+       height="12.625269"
+       x="-152.54266"
+       y="152.21886"
+       rx="0"
+       ry="0"
+       inkscape:export-filename="E:\Users\rodan\Documents\1. Trabalho - IPT\OneDrive - IPT\Pessoal\Mestrado\Pesquisa\Fig2_PolarizationExplained.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <rect
+       style="fill:none;fill-opacity:0.664;stroke:#afafaf;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.5, 3;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect71150"
+       width="76.178505"
+       height="12.625269"
+       x="-76.364128"
+       y="152.21886"
+       rx="0"
+       ry="0"
+       inkscape:export-filename="E:\Users\rodan\Documents\1. Trabalho - IPT\OneDrive - IPT\Pessoal\Mestrado\Pesquisa\Fig2_PolarizationExplained.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <rect
+       style="fill:none;fill-opacity:0.664;stroke:#afafaf;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.5, 3;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect71152"
+       width="76.178505"
+       height="12.625269"
+       x="-0.18561745"
+       y="152.21886"
+       rx="0"
+       ry="0"
+       inkscape:export-filename="E:\Users\rodan\Documents\1. Trabalho - IPT\OneDrive - IPT\Pessoal\Mestrado\Pesquisa\Fig2_PolarizationExplained.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <rect
+       style="fill:none;fill-opacity:0.664;stroke:#afafaf;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.5, 3;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect71154"
+       width="76.178505"
+       height="12.625269"
+       x="-228.72119"
+       y="152.21886"
+       rx="0"
+       ry="0"
+       inkscape:export-filename="E:\Users\rodan\Documents\1. Trabalho - IPT\OneDrive - IPT\Pessoal\Mestrado\Pesquisa\Fig2_PolarizationExplained.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <rect
+       style="fill:none;fill-opacity:0.664;stroke:#afafaf;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.5, 3;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect71158"
+       width="76.178505"
+       height="12.625269"
+       x="75.992874"
+       y="152.21886"
+       rx="0"
+       ry="0"
+       inkscape:export-filename="E:\Users\rodan\Documents\1. Trabalho - IPT\OneDrive - IPT\Pessoal\Mestrado\Pesquisa\Fig2_PolarizationExplained.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.665;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -219.09161,177.8 h 78.53095 18.68773 c 4.37254,0 13.11764,12.7 17.49019,12.7 h 4.37253 29.514703 28.456367 c 6.558821,0 8.745095,10.16 15.303915,10.16 H 25.77726 c 4.372546,0 10.931367,-7.62 13.11764,-7.62 2.186275,0 2.186275,25.4 4.372549,25.4 2.186272,0 2.915031,-10.16 6.558819,-10.16 h 58.848252 c 2.18628,0 4.37255,-7.62 6.55882,-7.62 2.18628,0 2.18628,25.4 4.37255,25.4 2.18628,0 4.37255,-12.7 6.55882,-12.7 H 152.4"
+       id="path109653"
+       sodipodi:nodetypes="ccccccccscssccccc"
+       inkscape:export-filename="E:\Users\rodan\Documents\1. Trabalho - IPT\OneDrive - IPT\Pessoal\Mestrado\Pesquisa\Fig2_PolarizationExplained.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.665;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -219.09161,203.2 c 0,0 67.59957,33.02 76.34467,33.02 h 18.68772 c 10.93139,0 17.49019,-10.16 28.421575,-10.16 10.931373,0 19.67646,10.16 30.607827,10.16 h 25.176955 c 10.931363,0 10.931363,-7.62 15.303914,-7.62 6.558818,0 6.558818,12.7 10.931366,12.7 h 6.5588207 41.5811163 c 6.558821,0 6.558821,-5.08 10.931367,-5.08 4.372547,0 4.372547,7.62 10.931369,7.62 h 52.28943 c 6.55882,0 10.93137,-2.54 13.11765,-2.54 2.18627,0 6.55882,2.54 13.11764,2.54 H 152.4"
+       id="path111064"
+       sodipodi:nodetypes="cccccccccccccccc"
+       inkscape:export-filename="E:\Users\rodan\Documents\1. Trabalho - IPT\OneDrive - IPT\Pessoal\Mestrado\Pesquisa\Fig2_PolarizationExplained.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInL);marker-end:url(#TriangleOutL)"
+       d="m -228.53631,172.72 v 73.66 h 386.1906"
+       id="path112635"
+       inkscape:export-filename="E:\Users\rodan\Documents\1. Trabalho - IPT\OneDrive - IPT\Pessoal\Mestrado\Pesquisa\Fig2_PolarizationExplained.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 1.5;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -112.58699,171.2739 v 76.2"
+       id="path1"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 1.5;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -35.251299,171.2739 v 76.2"
+       id="path2"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 1.5;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 40.70751,171.2739 v 76.2"
+       id="path3"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 1.5;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 119.63,171.2739 v 76.2"
+       id="path4"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="-27.085882"
+       y="272.48187"
+       id="text4"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Cambria;-inkscape-font-specification:'Cambria, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="-27.085882"
+         y="272.48187"><tspan
+           style="font-style:normal"
+           id="tspan1">Frequência [Hz]</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="-222.69318"
+       y="204.12404"
+       id="text5"><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Cambria;-inkscape-font-specification:'Cambria, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="-222.69318"
+         y="204.12404">ε&quot;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="-223.51999"
+       y="180.34"
+       id="text6"><tspan
+         sodipodi:role="line"
+         id="tspan6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Cambria;-inkscape-font-specification:'Cambria, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="-223.51999"
+         y="180.34">ε'</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.25;font-family:Cambria;-inkscape-font-specification:'Cambria, Normal';text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="-190.5"
+       y="258.996"
+       id="text7"><tspan
+         sodipodi:role="line"
+         id="tspan7"
+         style="stroke-width:0.264583"
+         x="-190.5"
+         y="258.996">10<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan8">3</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.25;font-family:Cambria;-inkscape-font-specification:'Cambria, Normal';text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="-112.49786"
+       y="258.996"
+       id="text9"><tspan
+         sodipodi:role="line"
+         id="tspan9"
+         style="stroke-width:0.264583"
+         x="-112.49786"
+         y="258.996">10<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan13">6</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.25;font-family:Cambria;-inkscape-font-specification:'Cambria, Normal';text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="-34.336182"
+       y="258.996"
+       id="text10"><tspan
+         sodipodi:role="line"
+         id="tspan10"
+         style="stroke-width:0.264583"
+         x="-34.336182"
+         y="258.996">10<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan14">9</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.25;font-family:Cambria;-inkscape-font-specification:'Cambria, Normal';text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="43.83054"
+       y="258.996"
+       id="text11"><tspan
+         sodipodi:role="line"
+         id="tspan11"
+         style="stroke-width:0.264583"
+         x="43.83054"
+         y="258.996">10<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan15">12</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.25;font-family:Cambria;-inkscape-font-specification:'Cambria, Normal';text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="121.92001"
+       y="259.07999"
+       id="text12"><tspan
+         sodipodi:role="line"
+         id="tspan12"
+         style="stroke-width:0.264583"
+         x="121.92001"
+         y="259.07999">10<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan16">15</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 1.5;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -190.37453,171.2739 v 76.2"
+       id="path16"
+       sodipodi:nodetypes="cc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Drawings"
+     style="display:inline"
+     transform="translate(230.82609,-50.491423)">
+    <g
+       id="g61699"
+       transform="translate(519.64083,58.19068)"
+       inkscape:export-filename="E:\Users\rodan\Documents\1. Trabalho - IPT\OneDrive - IPT\Pessoal\Mestrado\Pesquisa\Fig2_PolarizationExplained.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <ellipse
+         style="fill:#ad1966;fill-opacity:0.5;stroke:none;stroke-width:2.86901;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle59523"
+         cx="-404.81165"
+         cy="68.498856"
+         rx="19.444498"
+         ry="10.181005" />
+      <circle
+         style="fill:#1966ad;fill-opacity:1;stroke:none;stroke-width:0.412935;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle58655"
+         cx="-390.1434"
+         cy="69.60276"
+         r="2.0250835" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.52291;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -421.8592,67.238926 h 2.76203"
+         id="path58665" />
+      <circle
+         style="fill:#1966ad;fill-opacity:1;stroke:none;stroke-width:0.412935;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle59543"
+         cx="-392.09497"
+         cy="66.24498"
+         r="2.0250835" />
+      <circle
+         style="fill:#1966ad;fill-opacity:1;stroke:none;stroke-width:0.412935;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle59545"
+         cx="-394.08578"
+         cy="69.589539"
+         r="2.0250835" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:8.62039px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.21551"
+         x="-395.53699"
+         y="71.293953"
+         id="text58659"><tspan
+           sodipodi:role="line"
+           id="tspan58657"
+           style="stroke-width:0.21551"
+           x="-395.53699"
+           y="71.293953">+</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.52291;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -408.74842,75.075153 h 2.76202"
+         id="path59629" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.52291;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -402.32227,77.441198 h 2.76202"
+         id="path59631" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.52291;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -415.6482,69.04366 h 2.76202"
+         id="path59633" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.52291;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -406.62699,70.599683 h 2.76202"
+         id="path59635" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.52291;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -400.68662,73.767502 h 2.76202"
+         id="path59637" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.52291;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -409.73222,61.177111 h 2.76202"
+         id="path59639" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.52291;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -401.55922,64.743574 h 2.76202"
+         id="path59641" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.52291;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -414.01815,73.323128 h 2.76202"
+         id="path59643" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.52291;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -409.23261,66.414895 h 2.76202"
+         id="path59645" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.52291;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -420.53199,71.56678 h 2.76202"
+         id="path59647" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.52291;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -416.15788,63.581716 h 2.76202"
+         id="path59649" />
+    </g>
+    <g
+       id="g61140"
+       transform="matrix(0.81452728,0,0,0.81452728,420.35028,-77.077201)"
+       inkscape:export-filename="E:\Users\rodan\Documents\1. Trabalho - IPT\OneDrive - IPT\Pessoal\Mestrado\Pesquisa\Fig2_PolarizationExplained.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <circle
+         style="fill:#ad1966;fill-opacity:0.5;stroke:none;stroke-width:4.03706;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle60972"
+         cx="-375.09009"
+         cy="193.76642"
+         r="19.798271" />
+      <circle
+         style="fill:#1966ad;fill-opacity:1;stroke:none;stroke-width:0.506963;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle60984"
+         cx="-372.86801"
+         cy="194.95195"
+         r="2.4862072" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.64198;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -373.783,210.38221 h 3.39095"
+         id="path60986" />
+      <circle
+         style="fill:#1966ad;fill-opacity:1;stroke:none;stroke-width:0.506963;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle60988"
+         cx="-375.26395"
+         cy="190.82957"
+         r="2.4862072" />
+      <circle
+         style="fill:#1966ad;fill-opacity:1;stroke:none;stroke-width:0.506963;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle60990"
+         cx="-377.70807"
+         cy="194.93571"
+         r="2.4862072" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="-379.48975"
+         y="197.02823"
+         id="text60994"><tspan
+           sodipodi:role="line"
+           id="tspan60992"
+           style="stroke-width:0.264583"
+           x="-379.48975"
+           y="197.02823">+</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.64198;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -379.24431,205.40481 h 3.39095"
+         id="path60996" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.64198;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -387.82006,204.57525 h 3.39095"
+         id="path60998" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.64198;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -363.10233,193.75631 h 3.39095"
+         id="path61000" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.64198;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -393.10499,196.17588 h 3.39095"
+         id="path61002" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.64198;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -368.49807,202.95068 h 3.39095"
+         id="path61004" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.64198;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -386.05368,179.51541 h 3.39095"
+         id="path61006" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.64198;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -386.88325,188.9863 h 3.39095"
+         id="path61008" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.64198;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -361.10111,199.01024 h 3.39095"
+         id="path61010" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.64198;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -378.31106,182.21151 h 3.39095"
+         id="path61012" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.64198;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -368.07973,180.89803 h 3.39095"
+         id="path61014" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.64198;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -363.72807,187.05065 h 3.39095"
+         id="path61016" />
+    </g>
+    <g
+       id="g61203"
+       transform="matrix(0.81452728,0,0,0.81452728,414.87409,-103.28658)"
+       inkscape:export-filename="E:\Users\rodan\Documents\1. Trabalho - IPT\OneDrive - IPT\Pessoal\Mestrado\Pesquisa\Fig2_PolarizationExplained.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <circle
+         style="fill:#1966ad;fill-opacity:1;stroke:none;stroke-width:0.865;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle60974"
+         cx="-485.62305"
+         cy="223.59767"
+         r="4.2420673" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="-490.05688"
+         y="226.91528"
+         id="text60978"><tspan
+           sodipodi:role="line"
+           id="tspan60976"
+           style="stroke-width:0.264583"
+           x="-490.05688"
+           y="226.91528">+</tspan></text>
+      <circle
+         style="fill:#ad1966;fill-opacity:1;stroke:none;stroke-width:0.865;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle60980"
+         cx="-477.34583"
+         cy="225.46004"
+         r="4.2420673" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.865;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -480.42391,225.46005 h 6.15617"
+         id="path60982" />
+      <circle
+         style="fill:#1966ad;fill-opacity:1;stroke:none;stroke-width:0.865;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle61018"
+         cx="-460.18301"
+         cy="239.35944"
+         r="4.2420673" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="-464.61685"
+         y="242.67705"
+         id="text61022"><tspan
+           sodipodi:role="line"
+           id="tspan61020"
+           style="stroke-width:0.264583"
+           x="-464.61685"
+           y="242.67705">+</tspan></text>
+      <circle
+         style="fill:#ad1966;fill-opacity:1;stroke:none;stroke-width:0.865;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle61024"
+         cx="-458.68057"
+         cy="231.26701"
+         r="4.2420673" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.865;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -461.75866,231.26701 h 6.15617"
+         id="path61026" />
+      <circle
+         style="fill:#1966ad;fill-opacity:1;stroke:none;stroke-width:0.865;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle61028"
+         cx="-440.41168"
+         cy="213.08983"
+         r="4.2420673" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="-444.84552"
+         y="216.40744"
+         id="text61032"><tspan
+           sodipodi:role="line"
+           id="tspan61030"
+           style="stroke-width:0.264583"
+           x="-444.84552"
+           y="216.40744">+</tspan></text>
+      <circle
+         style="fill:#ad1966;fill-opacity:1;stroke:none;stroke-width:0.865;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle61034"
+         cx="-438.90924"
+         cy="221.45047"
+         r="4.2420673" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.865;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -441.98732,221.45047 h 6.15617"
+         id="path61036" />
+    </g>
+    <g
+       id="g61169"
+       transform="matrix(0.81452728,0,0,0.81452728,92.665197,-129.12832)"
+       inkscape:export-filename="E:\Users\rodan\Documents\1. Trabalho - IPT\OneDrive - IPT\Pessoal\Mestrado\Pesquisa\Fig2_PolarizationExplained.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -347.78662,257.95068 17.32052,10 -17.32052,10 -17.3205,-10 z"
+         id="path61038" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -347.78662,247.95068 17.32052,10 -17.32052,10 -17.3205,-10 z"
+         id="path61040" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -347.78661,237.95068 17.32052,10 -17.32052,10 -17.3205,-10 z"
+         id="path61042" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -365.10712,247.95068 v 20 l 17.3205,10 v -20 z"
+         id="path61044" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -356.44687,242.95068 v 20 l 17.3205,10 v -20 z"
+         id="path61046" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -347.78661,237.95068 v 20 l 17.3205,10 v -20 z"
+         id="path61048" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -356.44686,272.95068 17.3205,-10 v -20 l -17.3205,10 z"
+         id="path61050" />
+      <circle
+         style="fill:#1966ad;fill-opacity:1;stroke:none;stroke-width:0.393968;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle61052"
+         cx="-365.10712"
+         cy="267.95068"
+         r="1.932068" />
+      <circle
+         style="fill:#ad1966;fill-opacity:1;stroke:none;stroke-width:0.393968;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle61054"
+         cx="-356.44687"
+         cy="272.95068"
+         r="1.932068" />
+      <circle
+         style="fill:#1966ad;fill-opacity:1;stroke:none;stroke-width:0.393968;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle61056"
+         cx="-347.78662"
+         cy="277.95068"
+         r="1.932068" />
+      <circle
+         style="fill:#1966ad;fill-opacity:1;stroke:none;stroke-width:0.393968;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle61058"
+         cx="-365.10712"
+         cy="247.95068"
+         r="1.932068" />
+      <circle
+         style="fill:#ad1966;fill-opacity:1;stroke:none;stroke-width:0.393968;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle61060"
+         cx="-356.44687"
+         cy="252.95068"
+         r="1.932068" />
+      <circle
+         style="fill:#1966ad;fill-opacity:1;stroke:none;stroke-width:0.393968;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle61062"
+         cx="-347.78662"
+         cy="257.95068"
+         r="1.932068" />
+      <circle
+         style="fill:#1966ad;fill-opacity:1;stroke:none;stroke-width:0.393968;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle61064"
+         cx="-347.78662"
+         cy="237.95068"
+         r="1.932068" />
+      <circle
+         style="fill:#ad1966;fill-opacity:1;stroke:none;stroke-width:0.393968;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle61066"
+         cx="-339.12637"
+         cy="242.95068"
+         r="1.932068" />
+      <circle
+         style="fill:#1966ad;fill-opacity:1;stroke:none;stroke-width:0.393968;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle61068"
+         cx="-330.46613"
+         cy="247.95068"
+         r="1.932068" />
+      <circle
+         style="fill:#1966ad;fill-opacity:1;stroke:none;stroke-width:0.393968;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle61070"
+         cx="-347.78662"
+         cy="257.95068"
+         r="1.932068" />
+      <circle
+         style="fill:#1966ad;fill-opacity:1;stroke:none;stroke-width:0.393968;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle61072"
+         cx="-330.46613"
+         cy="267.95068"
+         r="1.932068" />
+      <circle
+         style="fill:#1966ad;fill-opacity:1;stroke:none;stroke-width:0.393968;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle61074"
+         cx="-356.44687"
+         cy="262.95068"
+         r="1.932068" />
+      <circle
+         style="fill:#ad1966;fill-opacity:1;stroke:none;stroke-width:0.393968;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle61076"
+         cx="-347.78662"
+         cy="267.95068"
+         r="1.932068" />
+      <circle
+         style="fill:#ad1966;fill-opacity:1;stroke:none;stroke-width:0.393968;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle61078"
+         cx="-365.10712"
+         cy="257.95068"
+         r="1.932068" />
+      <circle
+         style="fill:#1966ad;fill-opacity:1;stroke:none;stroke-width:0.393968;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle61080"
+         cx="-339.12637"
+         cy="262.95068"
+         r="1.932068" />
+      <circle
+         style="fill:#ad1966;fill-opacity:1;stroke:none;stroke-width:0.393968;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle61082"
+         cx="-339.12637"
+         cy="252.95068"
+         r="1.932068" />
+      <circle
+         style="fill:#ad1966;fill-opacity:1;stroke:none;stroke-width:0.393968;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle61084"
+         cx="-330.46613"
+         cy="257.95068"
+         r="1.932068" />
+      <circle
+         style="fill:#1966ad;fill-opacity:1;stroke:none;stroke-width:0.393968;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle61086"
+         cx="-347.78662"
+         cy="247.95068"
+         r="1.932068" />
+      <circle
+         style="fill:#ad1966;fill-opacity:1;stroke:none;stroke-width:0.393968;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle61088"
+         cx="-356.44687"
+         cy="242.95068"
+         r="1.932068" />
+      <circle
+         style="fill:#ad1966;fill-opacity:1;stroke:none;stroke-width:0.393968;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle61090"
+         cx="-339.12637"
+         cy="272.95068"
+         r="1.932068" />
+    </g>
+    <g
+       id="g61186"
+       transform="matrix(0.81452728,0,0,0.81452728,223.27181,-139.64397)"
+       inkscape:export-filename="E:\Users\rodan\Documents\1. Trabalho - IPT\OneDrive - IPT\Pessoal\Mestrado\Pesquisa\Fig2_PolarizationExplained.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <circle
+         style="fill:#66ad19;fill-opacity:1;stroke:none;stroke-width:2.10333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle61092"
+         cx="-412.73853"
+         cy="270.45068"
+         r="10.315031" />
+      <circle
+         style="fill:#1966ad;fill-opacity:1;stroke:none;stroke-width:0.393968;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle61094"
+         cx="-395.80542"
+         cy="265.84174"
+         r="1.932068" />
+      <circle
+         style="fill:#ad1966;fill-opacity:1;stroke:none;stroke-width:0.393968;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle61096"
+         cx="-395.80542"
+         cy="275.84174"
+         r="1.932068" />
+      <circle
+         style="fill:#1966ad;fill-opacity:1;stroke:none;stroke-width:0.393968;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle61098"
+         cx="-421.32217"
+         cy="256.99399"
+         r="1.932068" />
+      <circle
+         style="fill:#ad1966;fill-opacity:1;stroke:none;stroke-width:0.393968;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle61100"
+         cx="-429.04565"
+         cy="264.59875"
+         r="1.932068" />
+      <circle
+         style="fill:#1966ad;fill-opacity:1;stroke:none;stroke-width:0.393968;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle61102"
+         cx="-435.10712"
+         cy="261.14902"
+         r="1.932068" />
+      <circle
+         style="fill:#ad1966;fill-opacity:1;stroke:none;stroke-width:0.393968;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle61104"
+         cx="-435.10712"
+         cy="271.14902"
+         r="1.932068" />
+      <circle
+         style="fill:#ad1966;fill-opacity:1;stroke:none;stroke-width:0.393968;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle61106"
+         cx="-426.21045"
+         cy="282.97864"
+         r="1.932068" />
+      <circle
+         style="fill:#1966ad;fill-opacity:1;stroke:none;stroke-width:0.393968;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle61108"
+         cx="-432.27191"
+         cy="279.5289"
+         r="1.932068" />
+      <circle
+         style="fill:#ad1966;fill-opacity:1;stroke:none;stroke-width:0.393968;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle61110"
+         cx="-411.40387"
+         cy="256.40912"
+         r="1.932068" />
+      <circle
+         style="fill:#1966ad;fill-opacity:1;stroke:none;stroke-width:0.393968;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle61112"
+         cx="-412.55707"
+         cy="285.3125"
+         r="1.932068" />
+      <circle
+         style="fill:#ad1966;fill-opacity:1;stroke:none;stroke-width:0.393968;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle61114"
+         cx="-395.31659"
+         cy="284.7384"
+         r="1.932068" />
+      <circle
+         style="fill:#1966ad;fill-opacity:1;stroke:none;stroke-width:0.393968;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle61116"
+         cx="-401.37805"
+         cy="281.28867"
+         r="1.932068" />
+      <circle
+         style="fill:#ad1966;fill-opacity:1;stroke:none;stroke-width:0.393968;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle61118"
+         cx="-394.1434"
+         cy="260.19931"
+         r="1.932068" />
+      <circle
+         style="fill:#1966ad;fill-opacity:1;stroke:none;stroke-width:0.393968;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle61120"
+         cx="-400.20486"
+         cy="256.74957"
+         r="1.932068" />
+    </g>
+    <g
+       id="g69572"
+       transform="translate(-67.9064,2.2090113)"
+       inkscape:export-filename="E:\Users\rodan\Documents\1. Trabalho - IPT\OneDrive - IPT\Pessoal\Mestrado\Pesquisa\Fig2_PolarizationExplained.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <g
+         id="g61378"
+         transform="translate(572.42944,28.156425)">
+        <circle
+           style="fill:#1966ad;fill-opacity:1;stroke:none;stroke-width:0.704566;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path58256"
+           cx="-481.98547"
+           cy="92.935478"
+           r="3.4552796" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:8.62039px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.21551"
+           x="-485.59695"
+           y="95.637764"
+           id="text55394"><tspan
+             sodipodi:role="line"
+             id="tspan55392"
+             style="stroke-width:0.21551"
+             x="-485.59695"
+             y="95.637764">+</tspan></text>
+      </g>
+      <g
+         id="g61382"
+         transform="translate(572.5985,26.639472)">
+        <circle
+           style="fill:#ad1966;fill-opacity:1;stroke:none;stroke-width:0.704566;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle58356"
+           cx="-475.24344"
+           cy="94.452431"
+           r="3.4552796" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.704566;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -477.75064,94.452434 h 5.01437"
+           id="path55589" />
+      </g>
+      <g
+         id="g61390"
+         transform="translate(585.72553,39.888268)">
+        <circle
+           style="fill:#1966ad;fill-opacity:1;stroke:none;stroke-width:0.704566;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle61384"
+           cx="-481.98547"
+           cy="92.935478"
+           r="3.4552796" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:8.62039px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.21551"
+           x="-485.59695"
+           y="95.637764"
+           id="text61388"><tspan
+             sodipodi:role="line"
+             id="tspan61386"
+             style="stroke-width:0.21551"
+             x="-485.59695"
+             y="95.637764">+</tspan></text>
+      </g>
+      <g
+         id="g61396"
+         transform="translate(585.89458,38.371316)">
+        <circle
+           style="fill:#ad1966;fill-opacity:1;stroke:none;stroke-width:0.704566;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle61392"
+           cx="-475.24344"
+           cy="94.452431"
+           r="3.4552796" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.704566;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -477.75064,94.452434 h 5.01437"
+           id="path61394" />
+      </g>
+      <g
+         id="g61404"
+         transform="translate(601.36799,23.659218)">
+        <circle
+           style="fill:#1966ad;fill-opacity:1;stroke:none;stroke-width:0.704566;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle61398"
+           cx="-481.98547"
+           cy="92.935478"
+           r="3.4552796" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:8.62039px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.21551"
+           x="-485.59695"
+           y="95.637764"
+           id="text61402"><tspan
+             sodipodi:role="line"
+             id="tspan61400"
+             style="stroke-width:0.21551"
+             x="-485.59695"
+             y="95.637764">+</tspan></text>
+      </g>
+      <g
+         id="g61410"
+         transform="translate(601.53704,22.142266)">
+        <circle
+           style="fill:#ad1966;fill-opacity:1;stroke:none;stroke-width:0.704566;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle61406"
+           cx="-475.24344"
+           cy="94.452431"
+           r="3.4552796" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.704566;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -477.75064,94.452434 h 5.01437"
+           id="path61408" />
+      </g>
+    </g>
+    <g
+       id="g64414"
+       transform="translate(309.91146,-6.4927399)"
+       inkscape:export-filename="E:\Users\rodan\Documents\1. Trabalho - IPT\OneDrive - IPT\Pessoal\Mestrado\Pesquisa\Fig2_PolarizationExplained.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         style="fill:none;stroke:#858585;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutL)"
+         d="m -429.9971,146.81499 h 4.01466"
+         id="path63950" />
+      <path
+         style="fill:none;stroke:#858585;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutL)"
+         d="m -415.69644,146.81499 h -4.01466"
+         id="path64318" />
+      <circle
+         style="fill:#66ad19;fill-opacity:1;stroke:none;stroke-width:1.71322;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle60740"
+         cx="-422.61905"
+         cy="131.09853"
+         r="8.4018745" />
+      <circle
+         style="fill:#ad1966;fill-opacity:1;stroke:none;stroke-width:0.320898;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle60870"
+         cx="-409.72528"
+         cy="138.94623"
+         r="1.5737221" />
+      <circle
+         style="fill:#1966ad;fill-opacity:1;stroke:none;stroke-width:0.320898;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle60876"
+         cx="-437.728"
+         cy="127.39338"
+         r="1.5737221" />
+      <circle
+         style="fill:#ad1966;fill-opacity:1;stroke:none;stroke-width:0.320898;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle60878"
+         cx="-441.25366"
+         cy="133.46474"
+         r="1.5737221" />
+      <circle
+         style="fill:#1966ad;fill-opacity:1;stroke:none;stroke-width:0.320898;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle60882"
+         cx="-436.31732"
+         cy="138.56212"
+         r="1.5737221" />
+      <circle
+         style="fill:#ad1966;fill-opacity:1;stroke:none;stroke-width:0.320898;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle60884"
+         cx="-419.8728"
+         cy="120.00696"
+         r="1.5737221" />
+      <circle
+         style="fill:#1966ad;fill-opacity:1;stroke:none;stroke-width:0.320898;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle60886"
+         cx="-415.69644"
+         cy="146.81499"
+         r="1.5737221" />
+      <circle
+         style="fill:#ad1966;fill-opacity:1;stroke:none;stroke-width:0.320898;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle60888"
+         cx="-429.9971"
+         cy="146.81499"
+         r="1.5737221" />
+      <circle
+         style="fill:#ad1966;fill-opacity:1;stroke:none;stroke-width:0.320898;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle60892"
+         cx="-407.47281"
+         cy="122.74851"
+         r="1.5737221" />
+      <circle
+         style="fill:#1966ad;fill-opacity:1;stroke:none;stroke-width:0.320898;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle62181"
+         cx="-408.50684"
+         cy="131.03691"
+         r="1.5737221" />
+      <circle
+         style="fill:#1966ad;fill-opacity:1;stroke:none;stroke-width:0.320898;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle62183"
+         cx="-415.62729"
+         cy="125.71386"
+         r="1.5737221" />
+      <circle
+         style="fill:#1966ad;fill-opacity:1;stroke:none;stroke-width:0.320898;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle62185"
+         cx="-414.45206"
+         cy="128.54822"
+         r="1.5737221" />
+      <circle
+         style="fill:#1966ad;fill-opacity:1;stroke:none;stroke-width:0.320898;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle62187"
+         cx="-413.96814"
+         cy="131.72823"
+         r="1.5737221" />
+      <circle
+         style="fill:#1966ad;fill-opacity:1;stroke:none;stroke-width:0.320898;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle62189"
+         cx="-414.38293"
+         cy="134.90823"
+         r="1.5737221" />
+      <circle
+         style="fill:#1966ad;fill-opacity:1;stroke:none;stroke-width:0.320898;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle62191"
+         cx="-416.18033"
+         cy="137.46606"
+         r="1.5737221" />
+      <circle
+         style="fill:#ad1966;fill-opacity:1;stroke:none;stroke-width:0.320898;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle62193"
+         cx="429.45337"
+         cy="125.36821"
+         r="1.5737221"
+         transform="scale(-1,1)" />
+      <circle
+         style="fill:#ad1966;fill-opacity:1;stroke:none;stroke-width:0.320898;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle62195"
+         cx="430.6286"
+         cy="128.20256"
+         r="1.5737221"
+         transform="scale(-1,1)" />
+      <circle
+         style="fill:#ad1966;fill-opacity:1;stroke:none;stroke-width:0.320898;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle62197"
+         cx="431.11252"
+         cy="131.38257"
+         r="1.5737221"
+         transform="scale(-1,1)" />
+      <circle
+         style="fill:#ad1966;fill-opacity:1;stroke:none;stroke-width:0.320898;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle62199"
+         cx="430.69772"
+         cy="134.56258"
+         r="1.5737221"
+         transform="scale(-1,1)" />
+      <circle
+         style="fill:#ad1966;fill-opacity:1;stroke:none;stroke-width:0.320898;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle62201"
+         cx="428.90033"
+         cy="137.12041"
+         r="1.5737221"
+         transform="scale(-1,1)" />
+    </g>
+    <g
+       id="g68415"
+       transform="translate(179.91882,2.0000078)"
+       inkscape:export-filename="E:\Users\rodan\Documents\1. Trabalho - IPT\OneDrive - IPT\Pessoal\Mestrado\Pesquisa\Fig2_PolarizationExplained.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.21551px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -369.71394,123.03361 -14.10804,-8.14527 14.10804,-8.14528 14.10802,8.14528 z"
+         id="path60138" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.21551px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -369.71394,131.17888 -14.10804,-8.14527 14.10804,-8.14527 14.10802,8.14527 z"
+         id="path60222" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.21551px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -369.71395,139.32415 -14.10804,-8.14527 14.10804,-8.14527 14.10802,8.14527 z"
+         id="path60224" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.21551px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -355.60592,131.17888 v -16.29054 l -14.10802,-8.14528 v 16.29055 z"
+         id="path60421" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.21551px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -362.65993,135.25152 v -16.29055 l -14.10802,-8.14527 v 16.29054 z"
+         id="path60503" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.21551px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -369.71395,139.32415 v -16.29054 l -14.10802,-8.14527 v 16.29054 z"
+         id="path60505" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.21551px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -362.65994,110.8157 -14.10802,8.14527 v 16.29055 l 14.10802,-8.14528 z"
+         id="path60540" />
+      <circle
+         style="fill:#1966ad;fill-opacity:1;stroke:none;stroke-width:0.320898;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle60622"
+         cx="356.66428"
+         cy="-113.83002"
+         r="1.5737221"
+         transform="scale(-1)" />
+      <circle
+         style="fill:#ad1966;fill-opacity:1;stroke:none;stroke-width:0.320898;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle59671"
+         cx="361.60159"
+         cy="-111.87401"
+         r="1.5737221"
+         transform="scale(-1)" />
+      <circle
+         style="fill:#1966ad;fill-opacity:1;stroke:none;stroke-width:0.320898;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle59673"
+         cx="370.77231"
+         cy="-105.68474"
+         r="1.5737221"
+         transform="scale(-1)" />
+      <circle
+         style="fill:#1966ad;fill-opacity:1;stroke:none;stroke-width:0.320898;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle60624"
+         cx="356.66428"
+         cy="-130.12056"
+         r="1.5737221"
+         transform="scale(-1)" />
+      <circle
+         style="fill:#ad1966;fill-opacity:1;stroke:none;stroke-width:0.320898;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle60626"
+         cx="361.60159"
+         cy="-128.16458"
+         r="1.5737221"
+         transform="scale(-1)" />
+      <circle
+         style="fill:#1966ad;fill-opacity:1;stroke:none;stroke-width:0.320898;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle60628"
+         cx="370.77231"
+         cy="-121.97527"
+         r="1.5737221"
+         transform="scale(-1)" />
+      <circle
+         style="fill:#1966ad;fill-opacity:1;stroke:none;stroke-width:0.320898;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle60630"
+         cx="370.77231"
+         cy="-138.26581"
+         r="1.5737221"
+         transform="scale(-1)" />
+      <circle
+         style="fill:#ad1966;fill-opacity:1;stroke:none;stroke-width:0.320898;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle60632"
+         cx="375.70959"
+         cy="-136.30983"
+         r="1.5737221"
+         transform="scale(-1)" />
+      <circle
+         style="fill:#1966ad;fill-opacity:1;stroke:none;stroke-width:0.320898;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle60634"
+         cx="384.88031"
+         cy="-130.12056"
+         r="1.5737221"
+         transform="scale(-1)" />
+      <circle
+         style="fill:#1966ad;fill-opacity:1;stroke:none;stroke-width:0.320898;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle60640"
+         cx="384.88031"
+         cy="-113.83002"
+         r="1.5737221"
+         transform="scale(-1)" />
+      <circle
+         style="fill:#1966ad;fill-opacity:1;stroke:none;stroke-width:0.320898;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle60642"
+         cx="363.71829"
+         cy="-117.90263"
+         r="1.5737221"
+         transform="scale(-1)" />
+      <circle
+         style="fill:#ad1966;fill-opacity:1;stroke:none;stroke-width:0.320898;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle60644"
+         cx="368.65561"
+         cy="-115.94666"
+         r="1.5737221"
+         transform="scale(-1)" />
+      <circle
+         style="fill:#ad1966;fill-opacity:1;stroke:none;stroke-width:0.320898;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle60646"
+         cx="354.54758"
+         cy="-124.09195"
+         r="1.5737221"
+         transform="scale(-1)" />
+      <circle
+         style="fill:#1966ad;fill-opacity:1;stroke:none;stroke-width:0.320898;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle60728"
+         cx="377.82629"
+         cy="-117.90263"
+         r="1.5737221"
+         transform="scale(-1)" />
+      <circle
+         style="fill:#ad1966;fill-opacity:1;stroke:none;stroke-width:0.320898;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle60730"
+         cx="375.70959"
+         cy="-128.16458"
+         r="1.5737221"
+         transform="scale(-1)" />
+      <circle
+         style="fill:#ad1966;fill-opacity:1;stroke:none;stroke-width:0.320898;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle60732"
+         cx="383.29279"
+         cy="-123.56277"
+         r="1.5737221"
+         transform="scale(-1)" />
+      <circle
+         style="fill:#1966ad;fill-opacity:1;stroke:none;stroke-width:0.320898;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle60734"
+         cx="370.77231"
+         cy="-130.12056"
+         r="1.5737221"
+         transform="scale(-1)" />
+      <circle
+         style="fill:#ad1966;fill-opacity:1;stroke:none;stroke-width:0.320898;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle60736"
+         cx="361.60159"
+         cy="-136.30983"
+         r="1.5737221"
+         transform="scale(-1)" />
+      <circle
+         style="fill:#ad1966;fill-opacity:1;stroke:none;stroke-width:0.320898;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle60738"
+         cx="375.70959"
+         cy="-111.87401"
+         r="1.5737221"
+         transform="scale(-1)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="-393.50562"
+         y="137.55586"
+         id="text66937"><tspan
+           sodipodi:role="line"
+           id="tspan66935"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="-393.50562"
+           y="137.55586">-Q</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="-362.30756"
+         y="144.88828"
+         id="text68249"><tspan
+           sodipodi:role="line"
+           id="tspan68247"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="-362.30756"
+           y="144.88828">+Q</tspan></text>
+    </g>
+    <g
+       id="g71257"
+       transform="translate(323.41162,-1.9887126)"
+       inkscape:export-filename="E:\Users\rodan\Documents\1. Trabalho - IPT\OneDrive - IPT\Pessoal\Mestrado\Pesquisa\Fig2_PolarizationExplained.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <g
+         id="g68642"
+         transform="rotate(159.94048,-418.07714,106.41335)">
+        <circle
+           style="fill:#1966ad;fill-opacity:1;stroke:none;stroke-width:0.704566;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle68417"
+           cx="-477.78616"
+           cy="124.74033"
+           r="3.4552796" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:8.62039px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.21551"
+           x="-481.39764"
+           y="127.44264"
+           id="text68421"><tspan
+             sodipodi:role="line"
+             id="tspan68419"
+             style="stroke-width:0.21551"
+             x="-481.39764"
+             y="127.44264">+</tspan></text>
+        <circle
+           style="fill:#ad1966;fill-opacity:1;stroke:none;stroke-width:0.704566;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle68423"
+           cx="-468.25238"
+           cy="114.23823"
+           r="3.4552796" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.704566;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -470.75958,114.23823 h 5.01437"
+           id="path68425" />
+        <circle
+           style="fill:#1966ad;fill-opacity:1;stroke:none;stroke-width:0.704566;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle68427"
+           cx="-458.81116"
+           cy="124.60223"
+           r="3.4552796" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:8.62039px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.21551"
+           x="-462.42264"
+           y="127.30453"
+           id="text68431"><tspan
+             sodipodi:role="line"
+             id="tspan68429"
+             style="stroke-width:0.21551"
+             x="-462.42264"
+             y="127.30453">+</tspan></text>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -474.99301,122.01117 3.32401,-4.35056"
+           id="path68466" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -461.5014,121.9134 -3.32401,-4.35056"
+           id="path68630" />
+      </g>
+      <g
+         id="g68664"
+         transform="rotate(58.198046,-362.8852,209.63607)">
+        <circle
+           style="fill:#1966ad;fill-opacity:1;stroke:none;stroke-width:0.704566;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle68644"
+           cx="-477.78616"
+           cy="124.74033"
+           r="3.4552796" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:8.62039px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.21551"
+           x="-481.39764"
+           y="127.44264"
+           id="text68648"><tspan
+             sodipodi:role="line"
+             id="tspan68646"
+             style="stroke-width:0.21551"
+             x="-481.39764"
+             y="127.44264">+</tspan></text>
+        <circle
+           style="fill:#ad1966;fill-opacity:1;stroke:none;stroke-width:0.704566;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle68650"
+           cx="-468.25238"
+           cy="114.23823"
+           r="3.4552796" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.704566;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -470.75958,114.23823 h 5.01437"
+           id="path68652" />
+        <circle
+           style="fill:#1966ad;fill-opacity:1;stroke:none;stroke-width:0.704566;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle68654"
+           cx="-458.81116"
+           cy="124.60223"
+           r="3.4552796" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:8.62039px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.21551"
+           x="-462.42264"
+           y="127.30453"
+           id="text68658"><tspan
+             sodipodi:role="line"
+             id="tspan68656"
+             style="stroke-width:0.21551"
+             x="-462.42264"
+             y="127.30453">+</tspan></text>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -474.99301,122.01117 3.32401,-4.35056"
+           id="path68660" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -461.5014,121.9134 -3.32401,-4.35056"
+           id="path68662" />
+      </g>
+      <g
+         id="g68686"
+         transform="translate(110.69324,-28.131426)">
+        <circle
+           style="fill:#1966ad;fill-opacity:1;stroke:none;stroke-width:0.704566;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle68666"
+           cx="-477.78616"
+           cy="124.74033"
+           r="3.4552796" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:8.62039px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.21551"
+           x="-481.39764"
+           y="127.44264"
+           id="text68670"><tspan
+             sodipodi:role="line"
+             id="tspan68668"
+             style="stroke-width:0.21551"
+             x="-481.39764"
+             y="127.44264">+</tspan></text>
+        <circle
+           style="fill:#ad1966;fill-opacity:1;stroke:none;stroke-width:0.704566;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle68672"
+           cx="-468.25238"
+           cy="114.23823"
+           r="3.4552796" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.704566;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -470.75958,114.23823 h 5.01437"
+           id="path68674" />
+        <circle
+           style="fill:#1966ad;fill-opacity:1;stroke:none;stroke-width:0.704566;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle68676"
+           cx="-458.81116"
+           cy="124.60223"
+           r="3.4552796" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:8.62039px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.21551"
+           x="-462.42264"
+           y="127.30453"
+           id="text68680"><tspan
+             sodipodi:role="line"
+             id="tspan68678"
+             style="stroke-width:0.21551"
+             x="-462.42264"
+             y="127.30453">+</tspan></text>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -474.99301,122.01117 3.32401,-4.35056"
+           id="path68682" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -461.5014,121.9134 -3.32401,-4.35056"
+           id="path68684" />
+      </g>
+    </g>
+    <g
+       id="g71292"
+       transform="translate(330.34918,-15.619365)"
+       inkscape:export-filename="E:\Users\rodan\Documents\1. Trabalho - IPT\OneDrive - IPT\Pessoal\Mestrado\Pesquisa\Fig2_PolarizationExplained.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <g
+         id="g69381"
+         transform="rotate(-90,-450.62375,122.41809)">
+        <circle
+           style="fill:#1966ad;fill-opacity:1;stroke:none;stroke-width:0.704566;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle68688"
+           cx="-466.70596"
+           cy="193.79251"
+           r="3.4552796" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:8.62039px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.21551"
+           x="-470.31744"
+           y="196.49481"
+           id="text68692"><tspan
+             sodipodi:role="line"
+             id="tspan68690"
+             style="stroke-width:0.21551"
+             x="-470.31744"
+             y="196.49481">+</tspan></text>
+        <circle
+           style="fill:#ad1966;fill-opacity:1;stroke:none;stroke-width:0.704566;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle68694"
+           cx="-459.45349"
+           cy="179.34996"
+           r="3.4552796" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.704566;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -461.9607,179.34996 h 5.01437"
+           id="path68696" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -465.08804,189.95726 3.11662,-7.46144"
+           id="path68704"
+           sodipodi:nodetypes="cc" />
+        <circle
+           style="fill:#1966ad;fill-opacity:1;stroke:none;stroke-width:0.704566;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle69363"
+           cx="452.23895"
+           cy="193.72337"
+           r="3.4552796"
+           transform="scale(-1,1)" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:8.62039px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.21551"
+           x="448.62747"
+           y="196.42567"
+           id="text69367"
+           transform="scale(-1,1)"><tspan
+             sodipodi:role="line"
+             id="tspan69365"
+             style="stroke-width:0.21551"
+             x="448.62747"
+             y="196.42567">+</tspan></text>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -453.85688,189.88813 -3.11662,-7.46144"
+           id="path69369"
+           sodipodi:nodetypes="cc" />
+      </g>
+      <g
+         id="g69403"
+         transform="rotate(-90,-431.61033,125.94627)">
+        <circle
+           style="fill:#1966ad;fill-opacity:1;stroke:none;stroke-width:0.704566;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle69383"
+           cx="-466.70596"
+           cy="193.79251"
+           r="3.4552796" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:8.62039px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.21551"
+           x="-470.31744"
+           y="196.49481"
+           id="text69387"><tspan
+             sodipodi:role="line"
+             id="tspan69385"
+             style="stroke-width:0.21551"
+             x="-470.31744"
+             y="196.49481">+</tspan></text>
+        <circle
+           style="fill:#ad1966;fill-opacity:1;stroke:none;stroke-width:0.704566;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle69389"
+           cx="-459.45349"
+           cy="179.34996"
+           r="3.4552796" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.704566;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -461.9607,179.34996 h 5.01437"
+           id="path69391" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -465.08804,189.95726 3.11662,-7.46144"
+           id="path69393"
+           sodipodi:nodetypes="cc" />
+        <circle
+           style="fill:#1966ad;fill-opacity:1;stroke:none;stroke-width:0.704566;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle69395"
+           cx="452.23895"
+           cy="193.72337"
+           r="3.4552796"
+           transform="scale(-1,1)" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:8.62039px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.21551"
+           x="448.62747"
+           y="196.42567"
+           id="text69399"
+           transform="scale(-1,1)"><tspan
+             sodipodi:role="line"
+             id="tspan69397"
+             style="stroke-width:0.21551"
+             x="448.62747"
+             y="196.42567">+</tspan></text>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -453.85688,189.88813 -3.11662,-7.46144"
+           id="path69401"
+           sodipodi:nodetypes="cc" />
+      </g>
+      <g
+         id="g69425"
+         transform="rotate(-90,-431.22448,106.146)">
+        <circle
+           style="fill:#1966ad;fill-opacity:1;stroke:none;stroke-width:0.704566;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle69405"
+           cx="-466.70596"
+           cy="193.79251"
+           r="3.4552796" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:8.62039px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.21551"
+           x="-470.31744"
+           y="196.49481"
+           id="text69409"><tspan
+             sodipodi:role="line"
+             id="tspan69407"
+             style="stroke-width:0.21551"
+             x="-470.31744"
+             y="196.49481">+</tspan></text>
+        <circle
+           style="fill:#ad1966;fill-opacity:1;stroke:none;stroke-width:0.704566;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle69411"
+           cx="-459.45349"
+           cy="179.34996"
+           r="3.4552796" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.704566;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -461.9607,179.34996 h 5.01437"
+           id="path69413" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -465.08804,189.95726 3.11662,-7.46144"
+           id="path69415"
+           sodipodi:nodetypes="cc" />
+        <circle
+           style="fill:#1966ad;fill-opacity:1;stroke:none;stroke-width:0.704566;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle69417"
+           cx="452.23895"
+           cy="193.72337"
+           r="3.4552796"
+           transform="scale(-1,1)" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:8.62039px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.21551"
+           x="448.62747"
+           y="196.42567"
+           id="text69421"
+           transform="scale(-1,1)"><tspan
+             sodipodi:role="line"
+             id="tspan69419"
+             style="stroke-width:0.21551"
+             x="448.62747"
+             y="196.42567">+</tspan></text>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -453.85688,189.88813 -3.11662,-7.46144"
+           id="path69423"
+           sodipodi:nodetypes="cc" />
+      </g>
+    </g>
+    <g
+       id="g69549"
+       transform="translate(-99.298002,17.96512)"
+       inkscape:export-filename="E:\Users\rodan\Documents\1. Trabalho - IPT\OneDrive - IPT\Pessoal\Mestrado\Pesquisa\Fig2_PolarizationExplained.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <g
+         id="g69534"
+         transform="translate(691.91006,47.63089)">
+        <circle
+           style="fill:#1966ad;fill-opacity:1;stroke:none;stroke-width:0.704566;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle69528"
+           cx="-481.98547"
+           cy="92.935478"
+           r="3.4552796" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:8.62039px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.21551"
+           x="-485.59695"
+           y="95.637764"
+           id="text69532"><tspan
+             sodipodi:role="line"
+             id="tspan69530"
+             style="stroke-width:0.21551"
+             x="-485.59695"
+             y="95.637764">+</tspan></text>
+      </g>
+      <g
+         id="g69540"
+         transform="translate(692.07911,46.113938)">
+        <circle
+           style="fill:#ad1966;fill-opacity:1;stroke:none;stroke-width:0.704566;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle69536"
+           cx="-475.24344"
+           cy="94.452431"
+           r="3.4552796" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.704566;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -477.75064,94.452434 h 5.01437"
+           id="path69538" />
+      </g>
+    </g>
+    <g
+       id="g71174"
+       transform="translate(-175.4765,17.96512)"
+       inkscape:export-filename="E:\Users\rodan\Documents\1. Trabalho - IPT\OneDrive - IPT\Pessoal\Mestrado\Pesquisa\Fig2_PolarizationExplained.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <g
+         id="g71166"
+         transform="translate(691.91006,47.63089)">
+        <circle
+           style="fill:#1966ad;fill-opacity:1;stroke:none;stroke-width:0.704566;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle71160"
+           cx="-481.98547"
+           cy="92.935478"
+           r="3.4552796" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:8.62039px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.21551"
+           x="-485.59695"
+           y="95.637764"
+           id="text71164"><tspan
+             sodipodi:role="line"
+             id="tspan71162"
+             style="stroke-width:0.21551"
+             x="-485.59695"
+             y="95.637764">+</tspan></text>
+      </g>
+      <g
+         id="g71172"
+         transform="translate(692.07911,46.113938)">
+        <circle
+           style="fill:#ad1966;fill-opacity:1;stroke:none;stroke-width:0.704566;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle71168"
+           cx="-475.24344"
+           cy="94.452431"
+           r="3.4552796" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.704566;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -477.75064,94.452434 h 5.01437"
+           id="path71170" />
+      </g>
+    </g>
+    <g
+       id="g71190"
+       transform="translate(-251.65501,17.96512)"
+       inkscape:export-filename="E:\Users\rodan\Documents\1. Trabalho - IPT\OneDrive - IPT\Pessoal\Mestrado\Pesquisa\Fig2_PolarizationExplained.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <g
+         id="g71182"
+         transform="translate(691.91006,47.63089)">
+        <circle
+           style="fill:#1966ad;fill-opacity:1;stroke:none;stroke-width:0.704566;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle71176"
+           cx="-481.98547"
+           cy="92.935478"
+           r="3.4552796" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:8.62039px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.21551"
+           x="-485.59695"
+           y="95.637764"
+           id="text71180"><tspan
+             sodipodi:role="line"
+             id="tspan71178"
+             style="stroke-width:0.21551"
+             x="-485.59695"
+             y="95.637764">+</tspan></text>
+      </g>
+      <g
+         id="g71188"
+         transform="translate(692.07911,46.113938)">
+        <circle
+           style="fill:#ad1966;fill-opacity:1;stroke:none;stroke-width:0.704566;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle71184"
+           cx="-475.24344"
+           cy="94.452431"
+           r="3.4552796" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.704566;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -477.75064,94.452434 h 5.01437"
+           id="path71186" />
+      </g>
+    </g>
+    <g
+       id="g71206"
+       transform="matrix(-1,0,0,1,98.926725,17.96512)"
+       inkscape:export-filename="E:\Users\rodan\Documents\1. Trabalho - IPT\OneDrive - IPT\Pessoal\Mestrado\Pesquisa\Fig2_PolarizationExplained.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <g
+         id="g71198"
+         transform="translate(691.91006,47.63089)">
+        <circle
+           style="fill:#1966ad;fill-opacity:1;stroke:none;stroke-width:0.704566;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle71192"
+           cx="-481.98547"
+           cy="92.935478"
+           r="3.4552796" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:8.62039px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.21551"
+           x="-485.59695"
+           y="95.637764"
+           id="text71196"><tspan
+             sodipodi:role="line"
+             id="tspan71194"
+             style="stroke-width:0.21551"
+             x="-485.59695"
+             y="95.637764">+</tspan></text>
+      </g>
+      <g
+         id="g71204"
+         transform="translate(692.07911,46.113938)">
+        <circle
+           style="fill:#ad1966;fill-opacity:1;stroke:none;stroke-width:0.704566;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle71200"
+           cx="-475.24344"
+           cy="94.452431"
+           r="3.4552796" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.704566;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -477.75064,94.452434 h 5.01437"
+           id="path71202" />
+      </g>
+    </g>
+    <g
+       id="g71222"
+       transform="translate(-404.01207,17.96512)"
+       inkscape:export-filename="E:\Users\rodan\Documents\1. Trabalho - IPT\OneDrive - IPT\Pessoal\Mestrado\Pesquisa\Fig2_PolarizationExplained.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <g
+         id="g71214"
+         transform="translate(691.91006,47.63089)">
+        <circle
+           style="fill:#1966ad;fill-opacity:1;stroke:none;stroke-width:0.704566;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle71208"
+           cx="-481.98547"
+           cy="92.935478"
+           r="3.4552796" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:8.62039px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.21551"
+           x="-485.59695"
+           y="95.637764"
+           id="text71212"><tspan
+             sodipodi:role="line"
+             id="tspan71210"
+             style="stroke-width:0.21551"
+             x="-485.59695"
+             y="95.637764">+</tspan></text>
+      </g>
+      <g
+         id="g71220"
+         transform="translate(692.07911,46.113938)">
+        <circle
+           style="fill:#ad1966;fill-opacity:1;stroke:none;stroke-width:0.704566;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle71216"
+           cx="-475.24344"
+           cy="94.452431"
+           r="3.4552796" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.704566;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -477.75064,94.452434 h 5.01437"
+           id="path71218" />
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,1200 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="drawing.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="1.2810465"
+     inkscape:cx="289.21666"
+     inkscape:cy="404.7472"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="axonomgrid"
+       id="grid38477"
+       color="#9c9c9c"
+       opacity="0.1254902"
+       empcolor="#919191"
+       empopacity="0.25098039"
+       enabled="true" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid980"
+       units="mm"
+       spacingx="1"
+       spacingy="1"
+       enabled="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="perspective-envelope"
+       up_left_point="-4.330127,137.5"
+       up_right_point="90.932667,82.5"
+       down_left_point="21.650635,152.5"
+       down_right_point="116.91343,97.5"
+       id="path-effect1109"
+       is_visible="true"
+       lpeversion="1"
+       deform_type="perspective"
+       horizontal_mirror="false"
+       vertical_mirror="false"
+       overflow_perspective="false" />
+    <inkscape:path-effect
+       effect="perspective-envelope"
+       up_left_point="-8.660254,30"
+       up_right_point="38.971143,2.5"
+       down_left_point="43.30127,60"
+       down_right_point="90.932667,32.5"
+       id="path-effect38612"
+       is_visible="true"
+       lpeversion="1"
+       deform_type="perspective"
+       horizontal_mirror="false"
+       vertical_mirror="false"
+       overflow_perspective="false" />
+    <inkscape:path-effect
+       effect="perspective-envelope"
+       up_left_point="345.28949,123.5728"
+       up_right_point="410.9506,76.228616"
+       down_left_point="345.28949,75.86762"
+       down_right_point="410.9506,123.2118"
+       id="path-effect38096"
+       is_visible="true"
+       lpeversion="1"
+       deform_type="envelope_deformation"
+       horizontal_mirror="true"
+       vertical_mirror="false"
+       overflow_perspective="true" />
+    <pattern
+       id="EMFhbasepattern"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <image
+       id="EMFimage0"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAAH0lEQVQImWNgYGD4//8/FhLCwg6w68AHCOvAzifWDgB4kzXLJpO9lwAAAABJRU5ErkJggg=="
+       preserveAspectRatio="none" />
+    <pattern
+       id="EMFimage0_ref"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       patternUnits="userSpaceOnUse">
+      <use
+         id="EMFimage0_ign"
+         xlink:href="#EMFimage0" />
+    </pattern>
+    <image
+       id="EMFimage1"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAAJElEQVQImWP4//8/AwMDJokd/P//H4tafDoYsKpF14GdT4IdANI5Ncv8+FwfAAAAAElFTkSuQmCC"
+       preserveAspectRatio="none" />
+    <pattern
+       id="EMFimage1_ref"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       patternUnits="userSpaceOnUse">
+      <use
+         id="EMFimage1_ign"
+         xlink:href="#EMFimage1" />
+    </pattern>
+    <image
+       id="EMFimage2"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAAIElEQVQImWNgYGD4//8/VhIdIESJ1YGuF7sOfLYRawcAVLc1y3o5nM0AAAAASUVORK5CYII="
+       preserveAspectRatio="none" />
+    <pattern
+       id="EMFimage2_ref"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       patternUnits="userSpaceOnUse">
+      <use
+         id="EMFimage2_ign"
+         xlink:href="#EMFimage2" />
+    </pattern>
+    <image
+       id="EMFimage3"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAAIElEQVQImWP4//8/AwMDJokOEKLE6kDXi10HPttIsAMA9hU1ywoHhIwAAAAASUVORK5CYII="
+       preserveAspectRatio="none" />
+    <pattern
+       id="EMFimage3_ref"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       patternUnits="userSpaceOnUse">
+      <use
+         id="EMFimage3_ign"
+         xlink:href="#EMFimage3" />
+    </pattern>
+    <image
+       id="EMFimage4"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAAH0lEQVQImWNgYGD4//8/VhIBsPPx6UAH2HXg00WaHQB4kzXLXMyjWwAAAABJRU5ErkJggg=="
+       preserveAspectRatio="none" />
+    <pattern
+       id="EMFimage4_ref"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       patternUnits="userSpaceOnUse">
+      <use
+         id="EMFimage4_ign"
+         xlink:href="#EMFimage4" />
+    </pattern>
+    <image
+       id="EMFimage5"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAAIElEQVQImWP4//8/AwMDJokA2Pn4dKAD0nT8//+fdDsA0jk1ywjADXMAAAAASUVORK5CYII="
+       preserveAspectRatio="none" />
+    <pattern
+       id="EMFimage5_ref"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       patternUnits="userSpaceOnUse">
+      <use
+         id="EMFimage5_ign"
+         xlink:href="#EMFimage5" />
+    </pattern>
+    <image
+       id="EMFimage6"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAAIUlEQVQImWNgYGD4//8/VpIBhYUM8OnADojVgW4zsXYAAFS3NctmHOYLAAAAAElFTkSuQmCC"
+       preserveAspectRatio="none" />
+    <pattern
+       id="EMFimage6_ref"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       patternUnits="userSpaceOnUse">
+      <use
+         id="EMFimage6_ign"
+         xlink:href="#EMFimage6" />
+    </pattern>
+    <image
+       id="EMFimage7"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAAHUlEQVQImWNgwAX+//+PlWRAYRGrg3Q7MNXh0wEAtRA1yyPA3yMAAAAASUVORK5CYII="
+       preserveAspectRatio="none" />
+    <pattern
+       id="EMFimage7_ref"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       patternUnits="userSpaceOnUse">
+      <use
+         id="EMFimage7_ign"
+         xlink:href="#EMFimage7" />
+    </pattern>
+    <image
+       id="EMFimage8"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAAHElEQVQImWNgwAP+//+PhYSwSNFBuh2YKgjoAAA3jjXLuBTRUQAAAABJRU5ErkJggg=="
+       preserveAspectRatio="none" />
+    <pattern
+       id="EMFimage8_ref"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       patternUnits="userSpaceOnUse">
+      <use
+         id="EMFimage8_ign"
+         xlink:href="#EMFimage8" />
+    </pattern>
+    <image
+       id="EMFimage9"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAAHElEQVQImWNgwAX+//+PlcStmjQdxNmBnY9JAgCRNDXLx2UBVwAAAABJRU5ErkJggg=="
+       preserveAspectRatio="none" />
+    <pattern
+       id="EMFimage9_ref"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       patternUnits="userSpaceOnUse">
+      <use
+         id="EMFimage9_ign"
+         xlink:href="#EMFimage9" />
+    </pattern>
+    <image
+       id="EMFimage10"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAAHElEQVQImWNgwAP+//+PlcSujhQdxNmBzzY0EgATsjXLuYFLpQAAAABJRU5ErkJggg=="
+       preserveAspectRatio="none" />
+    <pattern
+       id="EMFimage10_ref"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       patternUnits="userSpaceOnUse">
+      <use
+         id="EMFimage10_ign"
+         xlink:href="#EMFimage10" />
+    </pattern>
+    <image
+       id="EMFimage11"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAAHElEQVQImWNgwAX+//+PlcSujhQdxNmBzzZMEgC1EDXLOTBoRAAAAABJRU5ErkJggg=="
+       preserveAspectRatio="none" />
+    <pattern
+       id="EMFimage11_ref"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       patternUnits="userSpaceOnUse">
+      <use
+         id="EMFimage11_ign"
+         xlink:href="#EMFimage11" />
+    </pattern>
+    <image
+       id="EMFimage12"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAAHElEQVQImWNgwAP+//+PlURXQYoO4uzApwurDgA3jjXL4wGkXwAAAABJRU5ErkJggg=="
+       preserveAspectRatio="none" />
+    <pattern
+       id="EMFimage12_ref"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       patternUnits="userSpaceOnUse">
+      <use
+         id="EMFimage12_ign"
+         xlink:href="#EMFimage12" />
+    </pattern>
+    <image
+       id="EMFimage13"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAAHElEQVQImWNgwAX+//+PlURXQYoO0u1AV41LBwCRNDXLuq2z5wAAAABJRU5ErkJggg=="
+       preserveAspectRatio="none" />
+    <pattern
+       id="EMFimage13_ref"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       patternUnits="userSpaceOnUse">
+      <use
+         id="EMFimage13_ign"
+         xlink:href="#EMFimage13" />
+    </pattern>
+    <image
+       id="EMFimage14"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAAHUlEQVQImWNgwAP+//+PlWRAYRGrg3Q7MNXh1AEAE7I1y+SmfCoAAAAASUVORK5CYII="
+       preserveAspectRatio="none" />
+    <pattern
+       id="EMFimage14_ref"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       patternUnits="userSpaceOnUse">
+      <use
+         id="EMFimage14_ign"
+         xlink:href="#EMFimage14" />
+    </pattern>
+    <pattern
+       id="EMFhbasepattern-6"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <image
+       id="EMFimage0-7"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAAH0lEQVQImWP4//8/AwMDJokb4NOBXS917cBUx8DAAADLMjXLxy3+ngAAAABJRU5ErkJggg=="
+       preserveAspectRatio="none" />
+    <pattern
+       id="EMFimage0_ref-1"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       patternUnits="userSpaceOnUse">
+      <use
+         id="EMFimage0_ign-8"
+         xlink:href="#EMFimage0-7" />
+    </pattern>
+    <image
+       id="EMFimage1-5"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAAHUlEQVQImWNgYGD4//8/VhI3wK4Dny5q2YGpAgIATbA1y4Wn+wIAAAAASUVORK5CYII="
+       preserveAspectRatio="none" />
+    <pattern
+       id="EMFimage1_ref-2"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       patternUnits="userSpaceOnUse">
+      <use
+         id="EMFimage1_ign-8"
+         xlink:href="#EMFimage1-5" />
+    </pattern>
+    <image
+       id="EMFimage2-4"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAAH0lEQVQImWP4//8/AwMDJokbkKbj////JOogzg40PgCnVjXLdUtYCQAAAABJRU5ErkJggg=="
+       preserveAspectRatio="none" />
+    <pattern
+       id="EMFimage2_ref-0"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       patternUnits="userSpaceOnUse">
+      <use
+         id="EMFimage2_ign-3"
+         xlink:href="#EMFimage2-4" />
+    </pattern>
+    <image
+       id="EMFimage3-5"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAAHElEQVQImWNgYGD4//8/VhI3IFYHQpS6dmDqBQAp1DXLLooejAAAAABJRU5ErkJggg=="
+       preserveAspectRatio="none" />
+    <pattern
+       id="EMFimage3_ref-3"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       patternUnits="userSpaceOnUse">
+      <use
+         id="EMFimage3_ign-0"
+         xlink:href="#EMFimage3-5" />
+    </pattern>
+    <image
+       id="EMFimage4-3"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAAHElEQVQImWP4//8/AwMDJokbEKsDIUpdO7DqBQDLMjXLqUD50AAAAABJRU5ErkJggg=="
+       preserveAspectRatio="none" />
+    <pattern
+       id="EMFimage4_ref-2"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       patternUnits="userSpaceOnUse">
+      <use
+         id="EMFimage4_ign-5"
+         xlink:href="#EMFimage4-3" />
+    </pattern>
+    <image
+       id="EMFimage5-3"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAAHElEQVQImWNgYGD4//8/VhI3IKwDO59yO3DpAgBNsDXLIKN8pAAAAABJRU5ErkJggg=="
+       preserveAspectRatio="none" />
+    <pattern
+       id="EMFimage5_ref-8"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       patternUnits="userSpaceOnUse">
+      <use
+         id="EMFimage5_ign-2"
+         xlink:href="#EMFimage5-3" />
+    </pattern>
+    <image
+       id="EMFimage6-5"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAAHElEQVQImWP4//8/AwMDJokbENaBnU9dO9BUAwCnVjXLfIZOqQAAAABJRU5ErkJggg=="
+       preserveAspectRatio="none" />
+    <pattern
+       id="EMFimage6_ref-8"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       patternUnits="userSpaceOnUse">
+      <use
+         id="EMFimage6_ign-5"
+         xlink:href="#EMFimage6-5" />
+    </pattern>
+    <image
+       id="EMFimage7-4"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAAHElEQVQImWNgYGD4//8/VhI3wKcDu17q2oGpDgAp1DXLZ2GRigAAAABJRU5ErkJggg=="
+       preserveAspectRatio="none" />
+    <pattern
+       id="EMFimage7_ref-2"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       patternUnits="userSpaceOnUse">
+      <use
+         id="EMFimage7_ign-0"
+         xlink:href="#EMFimage7-4" />
+    </pattern>
+    <image
+       id="EMFimage8-8"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAAG0lEQVQImWNgQAX///9HYWGSuAE+Hdj1Us8OAN/zNcu4uMQXAAAAAElFTkSuQmCC"
+       preserveAspectRatio="none" />
+    <pattern
+       id="EMFimage8_ref-6"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       patternUnits="userSpaceOnUse">
+      <use
+         id="EMFimage8_ign-1"
+         xlink:href="#EMFimage8-8" />
+    </pattern>
+    <image
+       id="EMFimage9-3"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAAHElEQVQImWNgQAL///9nwORjkrgBdh34dFHJDgBicTXLTBjRvQAAAABJRU5ErkJggg=="
+       preserveAspectRatio="none" />
+    <pattern
+       id="EMFimage9_ref-2"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       patternUnits="userSpaceOnUse">
+      <use
+         id="EMFimage9_ign-7"
+         xlink:href="#EMFimage9-3" />
+    </pattern>
+    <image
+       id="EMFimage10-3"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAAH0lEQVQImWNggIH///8zIAMIH5PEDUjT8f//fyraAQC8FzXLT9DnKwAAAABJRU5ErkJggg=="
+       preserveAspectRatio="none" />
+    <pattern
+       id="EMFimage10_ref-9"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       patternUnits="userSpaceOnUse">
+      <use
+         id="EMFimage10_ign-8"
+         xlink:href="#EMFimage10-3" />
+    </pattern>
+    <image
+       id="EMFimage11-9"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAAIUlEQVQImWNgYGBgYGD4//8/AyaAiGKSuAGxOhCiVLIDAD6VNcseSx7BAAAAAElFTkSuQmCC"
+       preserveAspectRatio="none" />
+    <pattern
+       id="EMFimage11_ref-9"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       patternUnits="userSpaceOnUse">
+      <use
+         id="EMFimage11_ign-4"
+         xlink:href="#EMFimage11-9" />
+    </pattern>
+    <image
+       id="EMFimage12-7"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAAHklEQVQImWNgYGD4//8/AyaAiGKSuAGxOhCi1LMDAN/zNcvs0YYUAAAAAElFTkSuQmCC"
+       preserveAspectRatio="none" />
+    <pattern
+       id="EMFimage12_ref-8"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       patternUnits="userSpaceOnUse">
+      <use
+         id="EMFimage12_ign-9"
+         xlink:href="#EMFimage12-7" />
+    </pattern>
+    <image
+       id="EMFimage13-1"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAAG0lEQVQImWP4//8/Ay4AkcMkcQPCOrDzKbYDAGJxNcs0RnA8AAAAAElFTkSuQmCC"
+       preserveAspectRatio="none" />
+    <pattern
+       id="EMFimage13_ref-4"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       patternUnits="userSpaceOnUse">
+      <use
+         id="EMFimage13_ign-9"
+         xlink:href="#EMFimage13-1" />
+    </pattern>
+    <image
+       id="EMFimage14-4"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAAH0lEQVQImWNgwAb+///P8P//fygLlcQNCOvAzqeGHQC8FzXLmozKAwAAAABJRU5ErkJggg=="
+       preserveAspectRatio="none" />
+    <pattern
+       id="EMFimage14_ref-4"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       patternUnits="userSpaceOnUse">
+      <use
+         id="EMFimage14_ign-6"
+         xlink:href="#EMFimage14-4" />
+    </pattern>
+    <pattern
+       id="EMFhbasepattern-9"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <image
+       id="EMFimage0-3"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAAKklEQVQImWP4//8/AwMDJsmAVfT///84RBkYGJH1MjIyEjIHTQ4CyLUDAGBaVrJsw9m2AAAAAElFTkSuQmCC"
+       preserveAspectRatio="none" />
+    <pattern
+       id="EMFimage0_ref-5"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       patternUnits="userSpaceOnUse">
+      <use
+         id="EMFimage0_ign-0"
+         xlink:href="#EMFimage0-3" />
+    </pattern>
+    <image
+       id="EMFimage1-4"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAALElEQVQImWP8//8/AwMDAwMDIyMjMpuBgYEBwkcnsYtCAFY5RgrsgADCdgAAf2xWuLqheLIAAAAASUVORK5CYII="
+       preserveAspectRatio="none" />
+    <pattern
+       id="EMFimage1_ref-0"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       patternUnits="userSpaceOnUse">
+      <use
+         id="EMFimage1_ign-83"
+         xlink:href="#EMFimage1-4" />
+    </pattern>
+    <image
+       id="EMFimage2-7"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAAJklEQVQImWP8//8/AwMDIyMjhIFgQ/iYJANWUXw6GMm1AwKIsgMA2WBcssyYOhQAAAAASUVORK5CYII="
+       preserveAspectRatio="none" />
+    <pattern
+       id="EMFimage2_ref-5"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       patternUnits="userSpaceOnUse">
+      <use
+         id="EMFimage2_ign-0"
+         xlink:href="#EMFimage2-7" />
+    </pattern>
+    <image
+       id="EMFimage3-52"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAAK0lEQVQImWP8//8/IyPj////GRgYGBgYkNkMEBY6iV0Ujw5GsuyAAGLtAAC+n1yyhAPN8AAAAABJRU5ErkJggg=="
+       preserveAspectRatio="none" />
+    <pattern
+       id="EMFimage3_ref-7"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       patternUnits="userSpaceOnUse">
+      <use
+         id="EMFimage3_ign-2"
+         xlink:href="#EMFimage3-52" />
+    </pattern>
+    <image
+       id="EMFimage4-8"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAAK0lEQVQImWNkYGD4//8/AwMDAwMDIyMjnA0VxSRxy+HSwUi6Hf///yfNDgC7IVayptP3pAAAAABJRU5ErkJggg=="
+       preserveAspectRatio="none" />
+    <pattern
+       id="EMFimage4_ref-5"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       patternUnits="userSpaceOnUse">
+      <use
+         id="EMFimage4_ign-8"
+         xlink:href="#EMFimage4-8" />
+    </pattern>
+    <image
+       id="EMFimage5-9"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAALElEQVQImWP8//8/AwMDAwMDIyMjMpuBgYEBwkcnsYtCAFY5RirZAdWKVQ4AW5BWuAFTC6kAAAAASUVORK5CYII="
+       preserveAspectRatio="none" />
+    <pattern
+       id="EMFimage5_ref-9"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       patternUnits="userSpaceOnUse">
+      <use
+         id="EMFimage5_ign-5"
+         xlink:href="#EMFimage5-9" />
+    </pattern>
+    <image
+       id="EMFimage6-4"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAAJklEQVQImWP8//8/AwMDIyMjhIFgQ/iYJANWUXw6GKlhBwTg1AEAtYRcslgGR8gAAAAASUVORK5CYII="
+       preserveAspectRatio="none" />
+    <pattern
+       id="EMFimage6_ref-3"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       patternUnits="userSpaceOnUse">
+      <use
+         id="EMFimage6_ign-4"
+         xlink:href="#EMFimage6-4" />
+    </pattern>
+    <image
+       id="EMFimage7-40"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAAKklEQVQImWP8//8/IyPj////GRgYGBgYkNkMEBY6iV0Ujw5Giu2AAHw6AJrDXLLe5uXVAAAAAElFTkSuQmCC"
+       preserveAspectRatio="none" />
+    <pattern
+       id="EMFimage7_ref-3"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       patternUnits="userSpaceOnUse">
+      <use
+         id="EMFimage7_ign-03"
+         xlink:href="#EMFimage7-40" />
+    </pattern>
+    <image
+       id="EMFimage8-80"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAAKUlEQVQImWNkYGD4//8/AwMDAwMDIyMjnA0VxSRxy+HSwUiZHRBAwA4Al0VWstuy9H0AAAAASUVORK5CYII="
+       preserveAspectRatio="none" />
+    <pattern
+       id="EMFimage8_ref-3"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       patternUnits="userSpaceOnUse">
+      <use
+         id="EMFimage8_ign-2"
+         xlink:href="#EMFimage8-80" />
+    </pattern>
+    <image
+       id="EMFimage9-8"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAAJ0lEQVQImWNgYGD4//8/JskIYTEwMDAyorAZcOnAIQoBVLcDAuByAF48VrhfkNzjAAAAAElFTkSuQmCC"
+       preserveAspectRatio="none" />
+    <pattern
+       id="EMFimage9_ref-1"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       patternUnits="userSpaceOnUse">
+      <use
+         id="EMFimage9_ign-6"
+         xlink:href="#EMFimage9-8" />
+    </pattern>
+    <pattern
+       id="EMFhbasepattern-1"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <image
+       id="EMFimage0-5"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAAJklEQVQImWP4//8/AwMDJskIpRihDAQblw4GrKL4dJBtBwQgywEAIsZcsuB3Cl8AAAAASUVORK5CYII="
+       preserveAspectRatio="none" />
+    <pattern
+       id="EMFimage0_ref-8"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       patternUnits="userSpaceOnUse">
+      <use
+         id="EMFimage0_ign-08"
+         xlink:href="#EMFimage0-5" />
+    </pattern>
+    <image
+       id="EMFimage1-6"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAAK0lEQVQImWNgYGD4//8/Jsn4//9/RkZGCJ+BgQGZjV0HDlE8OsizAwLQ5AAIBVyyzw4E4gAAAABJRU5ErkJggg=="
+       preserveAspectRatio="none" />
+    <pattern
+       id="EMFimage1_ref-1"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       patternUnits="userSpaceOnUse">
+      <use
+         id="EMFimage1_ign-835"
+         xlink:href="#EMFimage1-6" />
+    </pattern>
+    <image
+       id="EMFimage2-40"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAAKElEQVQImWP4//8/AwMDJskIZzEwMDAyMsLZWNQSkqOiHf///8cqBwCah1ayH6pRLgAAAABJRU5ErkJggg=="
+       preserveAspectRatio="none" />
+    <pattern
+       id="EMFimage2_ref-3"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       patternUnits="userSpaceOnUse">
+      <use
+         id="EMFimage2_ign-9"
+         xlink:href="#EMFimage2-40" />
+    </pattern>
+    <image
+       id="EMFimage3-4"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAAJ0lEQVQImWNgYGD4//8/JskIYTEwMDAyorAZcOnAIQoBNLXj////ADpgVri3s0Y3AAAAAElFTkSuQmCC"
+       preserveAspectRatio="none" />
+    <pattern
+       id="EMFimage3_ref-5"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       patternUnits="userSpaceOnUse">
+      <use
+         id="EMFimage3_ign-4"
+         xlink:href="#EMFimage3-4" />
+    </pattern>
+    <image
+       id="EMFimage4-4"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAAJElEQVQImWP4//8/AwMDJskIpRihDAQblw4GrKL4dFDFDggAAP7bXLI+mxabAAAAAElFTkSuQmCC"
+       preserveAspectRatio="none" />
+    <pattern
+       id="EMFimage4_ref-0"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       patternUnits="userSpaceOnUse">
+      <use
+         id="EMFimage4_ign-86"
+         xlink:href="#EMFimage4-4" />
+    </pattern>
+    <image
+       id="EMFimage5-91"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAALElEQVQImWNgYGD4//8/Jsn4//9/RkZGCJ+BgQGZjV0HDlE8Oii3AwIYGBgA5Bpcsk6rDkIAAAAASUVORK5CYII="
+       preserveAspectRatio="none" />
+    <pattern
+       id="EMFimage5_ref-6"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       patternUnits="userSpaceOnUse">
+      <use
+         id="EMFimage5_ign-9"
+         xlink:href="#EMFimage5-91" />
+    </pattern>
+    <image
+       id="EMFimage6-3"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAAJklEQVQImWP4//8/AwMDJskIZzEwMDAyMsLZWNQSkqORHRAAYQMAdqtWsia2poIAAAAASUVORK5CYII="
+       preserveAspectRatio="none" />
+    <pattern
+       id="EMFimage6_ref-7"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       patternUnits="userSpaceOnUse">
+      <use
+         id="EMFimage6_ign-9"
+         xlink:href="#EMFimage6-3" />
+    </pattern>
+    <image
+       id="EMFimage7-47"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAAJ0lEQVQImWP4//8/AwPDfxiAsBkgAJkPJxnh8oyMKGycOnCIUtUOAJLSVrjwjHOwAAAAAElFTkSuQmCC"
+       preserveAspectRatio="none" />
+    <pattern
+       id="EMFimage7_ref-34"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       patternUnits="userSpaceOnUse">
+      <use
+         id="EMFimage7_ign-3"
+         xlink:href="#EMFimage7-47" />
+    </pattern>
+    <image
+       id="EMFimage8-6"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAAJElEQVQImWNgYGD4DwMQNpRE58NIRijFCGUg2Lh0MGAVpa4dAMHjXLK4mU+lAAAAAElFTkSuQmCC"
+       preserveAspectRatio="none" />
+    <pattern
+       id="EMFimage8_ref-68"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       patternUnits="userSpaceOnUse">
+      <use
+         id="EMFimage8_ign-0"
+         xlink:href="#EMFimage8-6" />
+    </pattern>
+    <image
+       id="EMFimage9-7"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAAJ0lEQVQImWP4DwMMDAzIJAMaH04y/v//n5GREa4KmY1dBw5RqtoBAKciXLLLVE2EAAAAAElFTkSuQmCC"
+       preserveAspectRatio="none" />
+    <pattern
+       id="EMFimage9_ref-0"
+       x="0"
+       y="0"
+       width="8"
+       height="8"
+       patternUnits="userSpaceOnUse">
+      <use
+         id="EMFimage9_ign-61"
+         xlink:href="#EMFimage9-7" />
+    </pattern>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#eadd9b;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 43.301269,150 112.583301,-65.000002 -43.30127,-25 L 0,125 43.301269,150"
+       id="path13931"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="path30580"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+       d="m 26.412317,9.7508417 0.852935,5.1302433 16.731329,9.659837 1.05526,-0.609255 1.611836,0.930594 -1.524763,0.880322 0.369982,0.213609 -0.320959,0.185306 -1.085305,-0.570987 -1.158417,-0.534446 -1.218518,-0.499751 -1.255026,-0.428049 -1.305303,-0.359752 -1.314305,-0.309456 -1.350813,-0.237758 -1.376168,-0.178322 -1.351136,-0.108256 -1.340008,-0.04166 -1.341763,0.02685 -1.295962,0.09045 -1.234732,0.167388 -1.219532,0.231782 -1.13898,0.292192 -1.056957,0.362803 -0.999875,0.414216 -0.917112,0.461999 -0.812248,0.536447 -0.717443,0.577279 -0.628286,0.610173 -0.510141,0.659927 -0.381424,0.692531 -0.305909,0.722101 -0.15666,0.748225 -0.03446,0.767715 0.06012,0.780605 0.187504,0.78008 0.324847,0.785302 0.411916,0.779831 0.519902,0.768104 0.639198,0.744328 0.741406,0.724589 0.845453,0.715139 0.929632,0.666536 1.005066,0.617312 -10.356017,5.979049 2.356844,1.360725 -0.0682,0.03937 0.160615,0.09273 0.0682,-0.03937 2.356844,1.360725 10.356017,-5.979049 1.069216,0.580275 1.154476,0.536725 1.238658,0.488122 1.259939,0.430889 1.284299,0.366203 1.330396,0.300166 1.350835,0.237893 1.364968,0.190313 1.346225,0.105419 1.352048,0.03471 1.329721,-0.01989 1.296092,-0.09037 1.250586,-0.176692 1.204414,-0.217377 1.138243,-0.297292 1.056721,-0.362817 0.999877,-0.414215 0.929151,-0.468953 0.800209,-0.529493 0.717441,-0.577279 0.628523,-0.61016 0.510877,-0.654828 0.396542,-0.706935 0.290055,-0.712797 0.156531,-0.748299 0.0465,-0.774668 -0.07216,-0.773653 -0.182592,-0.777243 -0.313647,-0.797293 -0.411937,-0.779966 -0.535994,-0.758815 -0.618194,-0.750779 -0.746318,-0.727427 -0.865593,-0.703512 -0.925692,-0.668814 -0.988977,-0.626601 0.320959,-0.185306 0.272736,0.157464 1.524762,-0.880322 1.631232,0.941793 -1.05526,0.609255 16.73133,9.659837 8.885843,0.492444 12.490628,-7.211468 -2.356845,-1.360724 0.0682,-0.03937 -0.155832,-0.08997 -0.0682,0.03937 -2.356713,-1.360649 -12.490628,7.211467 -16.73133,-9.659838 -1.051318,0.606979 -1.631232,-0.941792 -4.227793,-0.235584 -1.524762,0.880322 0.472403,0.272742 -2.587912,1.494132 1.572779,0.908044 0.34099,-0.19687 0.810315,0.50487 0.762146,0.532677 0.663371,0.57298 0.594818,0.584339 0.523076,0.603212 0.428962,0.618273 0.352311,0.634307 0.245928,0.628382 0.142508,0.642994 0.06831,0.618487 -0.05464,0.621824 -0.128834,0.597319 -0.228301,0.581726 -0.309993,0.566923 -0.40885,0.528427 -0.502055,0.49787 -0.577225,0.468253 -0.678786,0.414291 -0.713525,0.389559 -0.815086,0.335599 -0.858181,0.287462 -0.915262,0.23605 -0.985989,0.181313 -1.003529,0.129472 -1.050784,0.08373 -1.060832,0.02219 -1.08745,-0.03009 -1.097499,-0.09163 -1.088497,-0.141925 -1.098654,-0.203406 -1.074929,-0.245324 -1.056727,-0.295107 -1.016156,-0.34108 -0.972289,-0.394627 -0.938715,-0.430734 -0.874462,-0.467835 -4.874303,-2.81418 -0.81031,-0.504869 -0.746055,-0.541968 -0.683385,-0.561278 -0.590768,-0.586677 -0.511269,-0.610176 -0.424786,-0.620536 -0.352437,-0.634382 -0.24569,-0.628369 -0.158839,-0.633718 -0.05198,-0.627763 0.03831,-0.612548 0.145032,-0.60667 0.22438,-0.579314 0.314044,-0.569259 0.408849,-0.528428 0.49777,-0.495546 0.581404,-0.470515 0.674604,-0.41203 0.717707,-0.39182 0.810906,-0.333337 0.862467,-0.289786 0.915263,-0.23605 0.981938,-0.178975 1.00745,-0.131884 1.034586,-0.07438 1.077162,-0.03147 1.07112,0.03936 1.11383,0.08235 1.088259,0.141911 1.09878,0.20348 1.070753,0.247588 1.044921,0.302071 1.012105,0.343419 0.992302,0.382924 0.922624,0.440025 0.874459,0.467834 -0.34099,0.196871 1.572911,0.908121 2.587913,-1.494132 0.374897,0.216446 1.524762,-0.880322 L 48.573551,23.759594 46.961716,22.829 48.013034,22.222022 31.281705,12.562184 43.772333,5.3507172 41.415618,3.9900673 l 0.0682,-0.039374 -0.15583,-0.089968 -0.0682,0.039374 -2.356843,-1.3607244 z"
+       inkscape:path-effect="#path-effect38612"
+       inkscape:original-d="m 142.94239,28.081971 -19.47788,19.458244 v 66.858965 h 5.11751 v 6.44095 h -7.39437 v 1.47846 h -1.5565 l -0.23357,-4.14445 -0.56431,-4.16408 -0.85576,-4.16409 -1.24541,-3.9889 -1.65416,-3.853 -1.88722,-3.696928 -2.27686,-3.52175 -2.58796,-3.36672 -2.82153,-3.074231 -3.07423,-2.821532 -3.36621,-2.587956 -3.52226,-2.276348 -3.69693,-1.887739 -3.93051,-1.634527 -3.988908,-1.26452 -4.086571,-0.856279 -4.164087,-0.564306 -4.164086,-0.233579 -4.222483,0.233579 -4.164087,0.564306 -4.086055,0.856279 -4.008541,1.26452 -3.833357,1.634527 -3.774445,1.887739 -3.522266,2.276348 -3.30781,2.587956 -3.132624,2.821532 -2.821533,3.074231 -2.510443,3.36672 -2.276346,3.52175 -1.965253,3.696928 -1.576134,3.853 -1.245401,3.9889 -0.953429,4.16409 -0.545187,4.16408 -0.155546,4.14445 h -50.221739 v 9.41803 h -0.33073 v 0.64182 h 0.33073 v 9.41803 h 50.221739 l 0.155546,4.14445 0.545187,4.16409 0.953429,4.16409 1.245401,4.00854 1.576134,3.83336 1.965253,3.69693 2.276346,3.52226 2.510443,3.38584 2.821533,3.0546 3.132624,2.82153 3.30781,2.58796 3.522266,2.27686 3.774445,1.88722 3.833357,1.65417 4.008541,1.2454 4.086055,0.85576 4.164087,0.56431 4.222483,0.23357 4.164086,-0.23357 4.164087,-0.56431 4.086571,-0.85576 3.988908,-1.2454 3.93051,-1.65417 3.69693,-1.88722 3.52226,-2.27686 3.36621,-2.58796 3.07423,-2.82153 2.82153,-3.0546 2.58796,-3.38584 2.27686,-3.52226 1.88722,-3.69693 1.65416,-3.83336 1.24541,-4.00854 0.85576,-4.16409 0.56431,-4.16409 0.23357,-4.14445 h 1.5565 v 1.08986 h 7.39437 v 6.51846 h -5.11751 v 66.85897 l 19.47788,19.45825 h 60.57358 v -9.41803 h 0.33073 v -0.62271 h -0.33073 v -9.41751 H 142.94239 V 149.40479 H 137.844 v -6.51846 l -9.26198,-9.26248 h -7.39437 v 1.88774 h -12.55014 v 6.28488 h 1.65364 l -0.15554,3.36621 -0.38912,3.3662 -0.79789,3.30832 -1.01182,3.21066 -1.26504,3.13263 -1.5565,2.99671 -1.8097,2.89905 -2.04277,2.66599 -2.3549,2.50992 -2.43189,2.27687 -2.74402,2.04276 -2.82102,1.80971 -2.99671,1.55701 -3.132629,1.34256 -3.210658,1.01182 -3.308323,0.71985 -3.366204,0.46716 -3.385838,0.0775 -3.366204,-0.0775 -3.385839,-0.46716 -3.288172,-0.71985 -3.210656,-1.01182 -3.152264,-1.34256 -2.977078,-1.55701 -2.899564,-1.80971 -2.66547,-2.04276 -2.510441,-2.27687 -2.276348,-2.50992 -2.043287,-2.66599 -1.809708,-2.89905 -1.576131,-2.99671 -1.322916,-3.13263 -1.031463,-3.21066 -0.700214,-3.30832 -0.467156,-3.3662 -0.155546,-3.36621 v -19.47788 l 0.155546,-3.3662 0.467156,-3.3662 0.700214,-3.30781 1.031463,-3.21066 1.322916,-3.13314 1.576131,-2.9962 1.809708,-2.89956 2.043287,-2.665468 2.276348,-2.51045 2.510441,-2.276341 2.66547,-2.043287 2.899564,-1.809707 2.977078,-1.556497 3.152264,-1.342554 3.210656,-1.011822 3.288172,-0.72037 3.385839,-0.466638 3.366204,-0.07803 3.385838,0.07803 3.366204,0.466638 3.308323,0.72037 3.210658,1.011822 3.132629,1.342554 2.99671,1.556497 2.82102,1.809707 2.74402,2.043287 2.43189,2.276341 2.3549,2.51045 2.04277,2.665468 1.8097,2.89956 1.5565,2.9962 1.26504,3.13314 1.01182,3.21066 0.79789,3.30781 0.38912,3.3662 0.15554,3.3662 h -1.65364 v 6.28541 h 12.55014 v 1.4981 h 7.39437 l 9.26198,-9.26197 v -6.44095 h 5.09839 V 47.540215 h 60.57358 v -9.417513 h 0.33073 V 37.5 h -0.33073 v -9.418029 z" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M -8.6602506,29.999999 38.971144,2.5 90.932667,32.5 43.301273,60 Z"
+       id="path38512" />
+    <path
+       style="fill:#e49f9f;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 34.641017,140 v 1 l 4.330126,2.5 v -1 L 34.641017,140"
+       id="path1639" />
+    <path
+       style="fill:#be6060;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 38.971143,143.5 53.693575,135 v -1 l -14.722432,8.5"
+       id="path1641" />
+    <path
+       style="fill:#e49f9f;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 38.971143,132.5 v 1 L 34.641017,131 v -1 l 4.330126,2.5"
+       id="path1643" />
+    <path
+       style="fill:#be6060;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 38.971143,133.5 12.124356,-7 v -1 l -12.124356,7 v 1"
+       id="path1645" />
+    <path
+       style="fill:#d37373;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 34.641017,140 14.72243,-8.5 4.330128,2.5 -14.722432,8.5 z"
+       id="path2043" />
+    <path
+       style="fill:#d37373;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 34.641017,130 4.330126,2.5 12.124356,-7 -4.330128,-2.5 z"
+       id="path2045" />
+    <path
+       style="fill:#e49f9f;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 36.373067,116 16.454482,9.5 v -1 L 36.373067,115 v 1"
+       id="path2047" />
+    <path
+       style="fill:#be6060;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 52.827549,125.5 3.464102,-2 v -1 l -3.464102,2"
+       id="path2049" />
+    <path
+       style="fill:#e49f9f;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 45.033321,111 16.454482,9.5 v -1 L 45.033321,110 v 1"
+       id="path2131" />
+    <path
+       style="fill:#e49f9f;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 62.353829,101 16.454482,9.5 v -1 L 62.353829,100 v 1"
+       id="path2272" />
+    <path
+       style="fill:#e49f9f;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 53.693576,106 16.454482,9.5 v -1 L 53.693576,105 v 1"
+       id="path2276" />
+    <path
+       style="fill:#e49f9f;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 71.014083,96 16.454482,9.5 v -1 L 71.014083,95 v 1"
+       id="path2360" />
+    <path
+       style="fill:#e49f9f;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 79.674338,91 16.454482,9.5 v -1 L 79.674338,90 v 1"
+       id="path2362" />
+    <path
+       style="fill:#e49f9f;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 113.44933,92.499999 V 93.5 l 4.33012,2.5 v -1.000001 z"
+       id="path2746" />
+    <path
+       style="fill:#d37373;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 113.44933,92.499999 20.78461,-12 4.33012,2.500001 -20.78461,11.999999 -4.33012,-2.5"
+       id="path2941" />
+    <path
+       style="fill:#be6060;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 117.77945,96 138.56406,83.999998 V 83 L 117.77945,94.999999 V 96"
+       id="path2943" />
+    <path
+       style="fill:#be6060;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 43.30127,116 5.196153,-3 v -1 l -5.196153,3 v 1"
+       id="path6842"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#be6060;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 60.621778,106 5.196153,-3 v -1 l -5.196153,3 v 1"
+       id="path6842-7"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#be6060;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 77.942286,96 5.196153,-3 v -1 l -5.196153,3 v 1"
+       id="path6842-75"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#be6060;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 61.487803,120.5 12.124356,-7 v -1 l -12.124356,7"
+       id="path2133"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#be6060;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 78.808311,110.5 12.124356,-7 v -1 l -12.124356,7"
+       id="path2274"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#be6060;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 96.12882,100.5 20.78461,-12 v -1 l -20.78461,12"
+       id="path2364"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#d37373;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 116.91343,87.499999 112.5833,84.999998 94.396769,95.5 82.272413,88.5 71.014081,94.999999 83.138438,102 77.942286,105 65.817929,97.999999 53.693575,105 l 12.124354,7 -5.196152,3 -12.124354,-7 -12.124356,7 16.454482,9.5 3.464102,-2 -12.990382,-7.5 5.196154,-3 12.99038,7.5 12.124354,-7 -12.99038,-7.5 5.196152,-3 12.990383,7.5 12.124354,-7 L 77.942286,94.999999 83.138438,92 l 12.99038,7.499998 z"
+       id="path2418"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccc" />
+    <path
+       style="fill:#f0e7b7;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 0,125 v 15 l 43.301269,25 v -15"
+       id="path14046"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#c0b478;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 43.301269,165 155.88457,100 V 84.999998 L 43.301269,150 v 15"
+       id="path14048" />
+  </g>
+</svg>

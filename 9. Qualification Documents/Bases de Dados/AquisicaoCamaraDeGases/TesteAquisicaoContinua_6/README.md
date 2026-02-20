@@ -1,0 +1,1 @@
+Neste experimento o borbulhador de H2O não foi conectado ao sistema, e portanto, não se espera uma váriação dos parâmetros S obtidos, nem da umidade relativa lida pelo sensor.

@@ -1,0 +1,1 @@
+teste com atmosfera de ar seco e vapor de agua obtido por meio de borbulhador.
